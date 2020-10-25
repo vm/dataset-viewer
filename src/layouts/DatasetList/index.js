@@ -1,25 +1,45 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import { Link } from 'react-router-dom'
-import { useDispatch, useSelector } from 'react-redux'
 
-import * as actions from '../../redux/dataset/actions'
-import * as selectors from '../../redux/dataset/selectors'
+const DATASET_LIST = [
+  {
+    name: 'content',
+    rowCount: 10000
+  },
+  {
+    name: 'content_display',
+    rowCount: 10000
+  },
+  {
+    name: 'content_topic',
+    rowCount: 10000
+  },
+  {
+    name: 'page_view',
+    rowCount: 10000
+  },
+  {
+    name: 'questions',
+    rowCount: 10000
+  },
+  {
+    name: 'stock_portfolio_item',
+    rowCount: 10000
+  },
+  {
+    name: 'user',
+    rowCount: 10000
+  }
+]
 
 const DatasetList = () => {
-  const dispatch = useDispatch()
-  useEffect(() => {
-    dispatch(actions.fetchDatasetList())
-  }, [dispatch])
-
-  const datasetList = useSelector(selectors.datasetListSelector)
-
   return (
     <div>
-      {datasetList
-        .map(dataset => (
-          <div key={dataset.name}>
-            <Link to={`/dataset/${dataset.name}`}>
-              {dataset.name}
+      {DATASET_LIST
+        .map(({ name, rowCount }) => (
+          <div key={name}>
+            <Link to={`/dataset/${name}`}>
+              {name}
             </Link>
           </div>
         ))
