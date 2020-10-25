@@ -1,0 +1,2001 @@
+content_id,author,body,target_lat,target_long,language,is_recommendable
+1,Debbie Matoshin,methodical,62.20907,-6.75247,German,0
+2,Adara Hamly,static,-22.328141199999997,27.8252814,Hebrew,1
+3,Harbert Hundell,hardware,63.827461,20.2599325,West Frisian,1
+4,Tann McNeachtain,Inverse,14.874441000000001,101.1843887,Khmer,1
+5,Ali Venner,Persevering,10.796588999999999,-74.915036,Ndebele,0
+6,Devin Cheales,hybrid,31.861596999999996,35.207914,Swahili,0
+7,Barth Roisen,Right-sized,17.1939768,120.44850020000001,Kazakh,0
+8,Alexina Danzelman,cohesive,45.294498,37.3986836,Macedonian,0
+9,Reinaldo Sapwell,Streamlined,33.949850299999994,-117.636429,Lithuanian,1
+10,Woodrow Greser,Fundamental,-6.9301649,108.79870840000001,Irish Gaelic,1
+11,Odessa Youdell,asymmetric,39.61335,-8.9519943,Lao,0
+12,Jade Libreros,approach,6.965581200000001,125.46094620000001,Estonian,1
+13,Cammy Klishin,Monitored,-6.748750200000001,111.03188290000001,Swahili,0
+14,Carey Sabine,Managed,-34.5204472,-58.53287339999999,Tswana,0
+15,Humphrey Brierley,Centralized,43.7549435,11.2216134,Montenegrin,1
+16,Ellen Radleigh,Cross-platform,-4.436417,119.6499162,Danish,1
+17,Lin Mogg,background,9.096523199999998,123.19892420000001,West Frisian,1
+18,Brade Paget,Focused,27.69417,109.73583,Māori,1
+19,Tobiah Bellringer,internet solution,9.2610914,0.7770529,Kurdish,0
+20,Georgianna Osband,installation,14.8465342,-88.3032755,Spanish,0
+21,Joyous Faughey,content-based,42.8862964,74.67224590000001,Tajik,1
+22,Della Kristoffersson,Cloned,59.738839399999996,10.1603397,Montenegrin,1
+23,Anneliese Cool,contextually-based,31.415251,121.34663799999998,Hungarian,1
+24,Effie Haseman,object-oriented,39.859131,-8.8426989,Zulu,1
+25,Rickert Gostage,product,12.7854969,45.01865479999999,Punjabi,0
+26,Stacie Kinsey,approach,57.881741000000005,11.936494699999999,Fijian,0
+27,Charlene Prosser,structure,63.00979720000001,18.1864547,Bengali,0
+28,Jana Rosenstein,secondary,-7.2038055,-78.3244788,Catalan,0
+29,Gran Smylie,Down-sized,32.9187879,115.98117350000001,Greek,0
+30,Ellyn Brownrigg,bottom-line,-9.8867238,124.24771709999999,Arabic,1
+31,Bernardine Bilbey,Versatile,49.2958555,4.3603508,Pashto,1
+32,Gerardo Soda,emulation,3.5144203999999997,11.5077573,Guaraní,0
+33,Wynne Grosvenor,user-facing,54.956234200000004,20.4747022,Quechua,1
+34,Erhard MacMarcuis,Vision-oriented,-16.5039502,-68.219452,Macedonian,1
+35,Orazio Hinzer,Cloned,-7.1476205,112.86119599999999,Yiddish,0
+36,Kimmie Blenkensop,Configurable,27.867125,107.503649,Tamil,1
+37,Aldon Onyon,bottom-line,18.7853577,99.0184183,Tok Pisin,0
+38,Arturo Ickovitz,discrete,27.198639,54.3666012,Montenegrin,1
+39,Evelina Pawlik,Streamlined,15.3047612,-88.6639228,Norwegian,1
+40,Hadrian Elderfield,Cross-group,51.36499,17.468410000000002,Tsonga,0
+41,Michale Whear,well-modulated,40.7576842,23.134218399999998,French,0
+42,Tildi Shepstone,contextually-based,41.962304700000004,101.0745036,Portuguese,1
+43,Maxwell Toun,knowledge base,41.701706,48.280932299999996,Swedish,0
+44,Horace Kulas,complexity,0.400097,128.281906,Norwegian,0
+45,Sapphira Corns,homogeneous,29.841046999999996,112.673519,Mongolian,1
+46,Wilie Munroe,monitoring,39.5093131,-7.8148208,Mongolian,1
+47,Ree Whitta,Fully-configurable,41.7595825,-7.477354300000001,Dari,0
+48,Lorrie Glyssanne,interactive,42.829907899999995,59.007231700000006,Mongolian,1
+49,Orren Ferrolli,application,42.9285549,133.0448635,Irish Gaelic,0
+50,Brynn Shenton,Grass-roots,6.749663900000001,11.8036596,Tetum,0
+51,Robinet Carlesi,systematic,-6.8447302,108.2427764,Italian,0
+52,Jonathan Kemmer,access,45.6326302,4.909835,Papiamento,1
+53,Ashlen Brattan,stable,5.478256,-75.1311874,Kazakh,1
+54,Romeo Lysaght,bandwidth-monitored,22.601282,88.341817,Somali,1
+55,Lorraine MacAskill,24 hour,8.508983,125.96966699999999,Macedonian,0
+56,Sasha Phuprate,installation,5.093026,119.80866200000001,Amharic,1
+57,Wilbur Whatford,Right-sized,41.60894520000001,20.006257,Hiri Motu,1
+58,Bethanne Blooman,Open-architected,-8.409517800000001,115.18891599999999,Montenegrin,1
+59,Shauna Huston,application,9.7852847,38.731582200000005,Aymara,1
+60,Ariela Lambourne,Robust,13.615457500000002,123.489418,Fijian,0
+61,Allyn Garraway,info-mediaries,51.068668,22.961446300000002,Guaraní,1
+62,Angel Pauletti,modular,28.852393,85.297534,Czech,1
+63,Karyn Clarae,Open-source,61.0390194,30.1341099,Māori,1
+64,Tiffani Timlin,composite,8.27533,-73.868176,Hungarian,1
+65,Noni Standbrook,asymmetric,32.820372,107.36945300000001,Korean,1
+66,Dennet Faye,Multi-channelled,13.78694,45.2304,Gagauz,0
+67,Rafi Kimber,Customer-focused,55.599064,37.914529200000004,Guaraní,0
+68,Liuka Wolfenden,holistic,-14.650670000000002,-75.0634,Moldovan,0
+69,Kara Bullin,systemic,37.2425649,111.8568586,Somali,1
+70,Fayth Kimblen,6th generation,43.525311,125.664662,Tok Pisin,1
+71,Jo-ann Turbat,superstructure,-8.674320699999999,116.10935330000001,Tetum,0
+72,Cahra Trask,5th generation,9.3887516,-67.0613528,Indonesian,0
+73,Barnabas Crewther,synergy,10.6485481,-61.49535699999999,New Zealand Sign Language,1
+74,Robinet Polkinghorne,Operative,31.135176,121.43928799999999,Māori,1
+75,Morna Gosswell,Persevering,35.8037979,128.5005419,Bulgarian,1
+76,Selby O'Henehan,software,32.8904175,13.2306332,Croatian,1
+77,Gillian Loveman,user-facing,14.871038,-24.694996600000003,Gujarati,0
+78,Layney Hablet,multi-tasking,55.599064,37.914529200000004,Romanian,1
+79,Guglielmo Eastmond,system engine,-20.9400441,-48.4812248,Danish,0
+80,Stefania Timmermann,Centralized,28.435584000000002,116.483259,Greek,1
+81,Tamara Kerins,Seamless,7.950084599999999,-75.3594016,Guaraní,0
+82,Sidnee Baudacci,flexibility,-8.283558,116.35446200000001,Danish,0
+83,Carmita Schofield,Multi-tiered,38.661678,-9.240661900000001,Oriya,1
+84,Laverne Dyble,capability,28.3285373,109.60290479999999,Azeri,1
+85,Tildi Bernardeschi,even-keeled,37.87059,112.548879,Kyrgyz,0
+86,Dacia Garford,Graphical User Interface,27.202344,118.63047900000001,Quechua,0
+87,Carole McGlew,dedicated,14.5165603,121.2786716,Arabic,1
+88,Killie Cowp,full-range,-31.399061,-64.23853960000001,Spanish,1
+89,Mahmud Waszkiewicz,next generation,44.256487,-76.033479,Papiamento,0
+90,Mehetabel Ciccottini,bi-directional,42.215258500000004,20.741473899999995,Italian,1
+91,Kelley Wilbud,Extended,-22.2220229,-49.8197149,Dhivehi,0
+92,Ted Crumpe,groupware,30.606033,118.297302,Sotho,0
+93,Courtenay Yushmanov,real-time,48.776494799999995,17.0214389,Bengali,1
+94,Barnebas Itskovitz,Open-architected,48.78355379999999,2.0439218999999995,Aymara,1
+95,Grannie Hafner,interactive,43.4088284,16.913965100000002,Ndebele,1
+96,Jose Boys,regional,-11.7871994,43.270282200000004,Icelandic,0
+97,Lyndy Banford,algorithm,32.236470000000004,35.38711,Chinese,0
+98,Thornie Keningley,matrices,34.363184000000004,107.237743,Italian,1
+99,Marlowe Wakelin,impactful,22.465063,113.30092900000001,Indonesian,1
+100,Whitaker Buckenhill,service-desk,21.8405365,-78.7589558,Punjabi,0
+101,Anette Wesson,secondary,27.087637,114.96469599999999,Telugu,1
+102,Dominique Grabban,asymmetric,-7.498361500000001,108.58706070000001,Burmese,1
+103,Jeremy Crosskell,De-engineered,50.4119089,16.5148115,Pashto,1
+104,Vincents Lebbern,full-range,13.966664999999999,121.08333700000001,Spanish,0
+105,Stanleigh Costley,Realigned,53.1250118,7.0114962,Yiddish,0
+106,Aeriel Dampier,foreground,-4.4338427000000005,-41.453762299999994,Swati,0
+107,Arturo Simonsen,middleware,49.59977,-119.66911,Persian,0
+108,Stormi Oldman,Face to face,50.0815792,14.2585703,Danish,0
+109,Crista Blaxall,dynamic,-9.4691312,119.3076098,Swedish,1
+110,Elane Colquete,Advanced,54.31137420000001,59.4823216,Haitian Creole,0
+111,Agustin Gransden,pricing structure,37.4454804,59.1099161,Greek,1
+112,Meridel Normadell,Centralized,-11.189169999999999,-76.95139,West Frisian,0
+113,Georgie Collyear,actuating,38.6913664,139.7516875,Dari,0
+114,Candida Behnecke,policy,56.1748458,14.849374,Khmer,1
+115,Belicia Ledram,ability,14.245120000000002,-87.958061,Malagasy,0
+116,Hymie Scolding,motivating,-7.410493400000001,110.32790259999999,Thai,0
+117,Rourke Piatto,intranet,52.5175,25.8429,Northern Sotho,1
+118,Cordelie Claypool,approach,46.228702500000004,15.5190353,Dutch,1
+119,Golda Flintoff,projection,54.1491581,91.8814443,Persian,0
+120,Anastassia Bewick,throughput,29.218796700000002,19.2058436,Tswana,1
+121,Ryun Berthome,Extended,46.614036,0.0494681,Lao,0
+122,Alfy Twinning,Front-line,47.6632745,1.206057,Gujarati,1
+123,Cornelle Cleatherow,projection,38.280007899999994,21.8330106,Guaraní,0
+124,Alaster Gallop,productivity,40.7463865,-8.7008962,Hungarian,1
+125,Neron Scolland,needs-based,46.4722761,-64.7242645,Estonian,1
+126,Darlene Romanetti,benchmark,38.234501,115.519278,Aymara,1
+127,Patricia Scarse,next generation,23.309936999999998,101.94508499999999,Zulu,0
+128,Arabela Cuphus,solution-oriented,-2.0978271,113.7989815,Montenegrin,1
+129,Lotty Hansman,secured line,6.736065099999999,-1.6080974,Gagauz,0
+130,Alasdair Ziemke,Synchronised,47.5155739,40.814031299999996,Danish,0
+131,Candace Lockley,Focused,52.175959999999996,122.07903,Dzongkha,1
+132,Weber Zupa,forecast,23.07555,112.007814,Afrikaans,0
+133,Carmela McGarahan,grid-enabled,31.674971999999997,-106.41831409999999,West Frisian,0
+134,Cornell Pierce,Polarised,-5.2915408,-39.4035876,Danish,1
+135,Forster Racher,Enhanced,55.665860200000004,12.5482906,Quechua,0
+136,Ernie Ratray,tangible,46.322577,-0.4654102,Kashmiri,0
+137,Darbee MacGow,Compatible,36.2074633,140.28954140000002,Hindi,1
+138,Kelcey Fontell,parallelism,0.944785,33.126717,Bengali,0
+139,Ciro Scanderet,time-frame,39.0407357,117.63981070000001,Ndebele,1
+140,Koenraad McGeaney,radical,13.1916462,-59.580081299999996,Filipino,0
+141,Ashly Tremain,maximized,14.5473421,120.997522,Ndebele,1
+142,Kingston Djuricic,Inverse,59.460919200000006,28.039599900000002,Catalan,1
+143,Shirl Wileman,actuating,-15.752472099999999,26.4370933,Mongolian,1
+144,Abby Davidovic,User-friendly,45.6168,-75.01599,Spanish,0
+145,Delcine Hamal,24 hour,56.3452088,44.1385479,Dhivehi,0
+146,Eben Tankus,Multi-layered,26.655026,102.244683,Malay,1
+147,Jilly Chrichton,even-keeled,38.5994652,-8.4602494,Lao,1
+148,Hi Narbett,emulation,21.857958,111.98223200000001,Tsonga,0
+149,Felizio Ruhben,Multi-channelled,9.014421400000002,-79.5125662,Kashmiri,0
+150,Berkley Stoakley,help-desk,-7.3825,108.16,Gujarati,1
+151,Marlena Asgodby,monitoring,40.639438399999996,-8.6380475,Kurdish,0
+152,Crystal Hayfield,policy,-25.8681839,-50.3842316,Tetum,0
+153,Zabrina Pauletti,success,48.584759399999996,-68.1942711,Assamese,1
+154,Adrea Bevir,Universal,-22.787936,-50.2199938,Guaraní,1
+155,Nickolai Nana,Optional,48.048396000000004,125.086804,Nepali,1
+156,Hussein Bartles,Face to face,23.124745,113.33138899999999,Oriya,0
+157,Creigh Fydoe,superstructure,14.5661645,121.0321655,Montenegrin,0
+158,Bendite Jacobowitz,Customizable,5.8734472,124.8979544,Maltese,1
+159,Ceil Letford,Customer-focused,45.048697600000004,16.374617100000002,Japanese,1
+160,Schuyler Sposito,intangible,43.7974664,15.6421092,Swati,0
+161,Tadeas Kike,Adaptive,30.6074358,114.3110482,Swati,0
+162,Briny Harfoot,Operative,15.551882899999999,120.7822013,Swati,0
+163,Skell Struttman,systemic,-22.2188934,-51.3064462,Georgian,0
+164,Ranique Targe,Fundamental,9.5403936,125.5240221,Northern Sotho,0
+165,Brit McPhail,pricing structure,-2.4681008999999996,-66.1415263,Sotho,0
+166,Delly Conelly,emulation,32.574148699999995,73.88543309999999,Macedonian,1
+167,Siana Treswell,matrix,50.3057063,21.8736798,Bulgarian,1
+168,Rey Canet,mobile,-7.422034299999999,106.7529514,Zulu,0
+169,Moses Jedrzejewski,superstructure,55.66899720000001,12.5409879,Hungarian,1
+170,Ilysa Dallemore,moratorium,-3.7368148999999997,119.5803605,Mongolian,1
+171,Maurice Van den Bosch,monitoring,-3.4816267,-80.24537480000001,Assamese,0
+172,Jillayne Dooman,Synchronised,29.476705,121.869339,Lithuanian,0
+173,Imogen Derx,migration,9.1765343,123.21667659999999,Mongolian,0
+174,Halli Gieves,full-range,39.7539956,-8.754950599999999,Pashto,1
+175,Elvera Heijne,Graphical User Interface,38.0485803,138.394706,Hiri Motu,1
+176,Coraline Chalcot,executive,46.6666667,93.25,Amharic,0
+177,Darryl Blaker,projection,14.6135888,121.09579270000002,Fijian,0
+178,Gasparo Penrose,web-enabled,44.840524,82.353656,Latvian,1
+179,Bernard Brammer,intermediate,30.170189,121.14967299999999,Yiddish,1
+180,Chevalier Sier,benchmark,39.761891999999996,116.420331,Oriya,0
+181,Zorana Suddards,ability,14.67199,43.81828,Hindi,0
+182,Art Ion,Automated,52.194945600000004,35.0572656,Greek,1
+183,Del Alderwick,context-sensitive,50.534569700000006,14.5397223,Thai,0
+184,Celestyna Volk,maximized,-9.7172,123.9899,Georgian,0
+185,Brigg Dionsetti,asynchronous,35.791729700000005,127.4248356,Swahili,1
+186,Giselbert O'Cullen,4th generation,49.9800949,19.234704,Icelandic,0
+187,Prudy Curry,Synchronised,-7.324188,110.509841,Māori,1
+188,Ly Isac,Seamless,40.274828899999996,-3.7968574,Finnish,1
+189,Aloisia Gammack,Cloned,8.3537158,-70.5770632,Chinese,0
+190,Archie Pennycord,utilisation,49.81628320000001,19.329596600000002,Kyrgyz,1
+191,Agustin Whiteley,object-oriented,-6.8062320000000005,110.890105,Oriya,1
+192,Neille De Giorgis,moderator,-7.7546,114.0625,Portuguese,0
+193,Daryl Cringle,real-time,48.4990903,7.311863499999999,Dari,0
+194,Alano Minett,local,-12.134932800000001,44.4252603,Quechua,1
+195,Zeb Beau,hardware,10.71574,107.79915449999999,Luxembourgish,1
+196,Jacqueline Ayer,transitional,9.297858,-64.3490085,Bislama,1
+197,Dill Woollends,service-desk,10.68022,-71.034538,Croatian,1
+198,Adel Espinola,standardization,-2.6382189,30.467445899999998,Dzongkha,0
+199,Stanfield Kalkofer,uniform,-10.0569,124.1295,Hebrew,1
+200,Fernandina Westgate,product,46.0655001,15.1821191,Hebrew,0
+201,Danyelle Romain,structure,37.2516991,139.007103,Hungarian,0
+202,Bianka Tissington,Pre-emptive,65.8375549,13.2106011,Nepali,0
+203,Gayle Rainsdon,interface,49.9819149,18.3472649,Ndebele,1
+204,Aubrette Gillean,benchmark,32.20125,35.03416,Danish,0
+205,Rey Feilden,Innovative,53.8580495,32.4202638,Nepali,1
+206,Gregoire Voyce,Diverse,30.600064,114.309091,Northern Sotho,1
+207,Trudey Simonich,neutral,22.9457326,112.3578078,Maltese,0
+208,Andras Ryton,orchestration,-7.0124761,111.48124720000001,Malayalam,1
+209,Tibold MacDonald,Right-sized,-7.13386,113.51997,Persian,0
+210,Cairistiona O'Dowgaine,project,-2.4050206000000003,11.357289300000001,Bislama,0
+211,Kandace Bertomeu,system-worthy,3.0721692000000003,101.4687196,Quechua,0
+212,Nicolais Summerly,productivity,45.112439,21.2185241,Afrikaans,1
+213,Fernande Nisbet,firmware,-7.150975,110.1402594,Assamese,0
+214,Vernen Dollen,analyzing,34.95578,62.233212,Zulu,0
+215,Aili Gallie,hybrid,55.60422760000001,37.491982799999995,Kyrgyz,1
+216,Margaret Oxtoby,interface,29.454189000000003,119.996847,Macedonian,0
+217,Suzanne Denge,contextually-based,36.982186,111.18115,Bislama,1
+218,Glenn Blackborough,dynamic,36.608183000000004,101.808485,Portuguese,1
+219,Carrie Maddick,standardization,-15.7451604,-70.05478000000001,Kyrgyz,1
+220,Legra Stormouth,heuristic,36.995188,110.61317700000001,Guaraní,1
+221,Aimil Spurdens,Devolved,-7.382645,107.74585590000001,Tswana,1
+222,Charmine Le Brun,software,5.21667,96.28333,Norwegian,0
+223,Doralynn Blackeby,Extended,52.2902011,22.4724915,Norwegian,0
+224,Raven Jagson,executive,-1.8807630000000002,105.668503,Italian,1
+225,Thane Tutchings,focus group,-9.3929796,-76.7188613,Bislama,0
+226,Ulrike Sellors,tangible,55.813247,37.478747,Assamese,0
+227,Isidora Stukings,Self-enabling,39.827482,122.099452,Quechua,1
+228,Marietta Cassels,global,-2.9118209,119.3250347,Croatian,0
+229,Desiree Longina,policy,40.761653,112.37889399999999,German,1
+230,Rhianna Rhodes,open system,10.7224254,122.2618013,Northern Sotho,1
+231,Pamella Miebes,customer loyalty,-29.761912100000004,-57.085842799999995,Haitian Creole,0
+232,Franklyn Blue,success,9.511318699999999,-75.3761952,Georgian,0
+233,Case Luetkemeyer,Right-sized,45.9724452,16.9295441,Khmer,0
+234,Jannelle Tubridy,multimedia,-1.1939843,34.6165033,French,0
+235,Kelli Bretton,Secured,37.801632399999995,48.907262,Japanese,1
+236,Carol Menere,functionalities,48.4508261,14.0838042,Estonian,0
+237,Lance McBean,hardware,41.898416600000004,20.905251999999997,Persian,1
+238,Ricoriki Aspy,data-warehouse,13.576473000000002,105.9699878,Marathi,0
+239,Early Lorenzetto,process improvement,5.3741665,120.3136139,Marathi,0
+240,Lefty Cod,grid-enabled,36.789796,127.0018494,Punjabi,1
+241,Yehudit Albon,eco-centric,52.47679350000001,13.2962036,Gagauz,1
+242,Derrick Matteacci,workforce,21.9868109,90.29516600000001,Dari,1
+243,Joelynn Longfoot,flexibility,33.612843,113.66743600000001,Swahili,1
+244,Costa Jose,knowledge base,-3.5837638,30.717750899999995,Dhivehi,1
+245,Tamera Raoult,open system,22.719816,113.82915600000001,Swahili,1
+246,Odilia Beert,help-desk,-38.7589114,-62.27499670000001,Czech,1
+247,Stephenie Caldeiro,internet solution,48.829733000000004,2.1177361,Amharic,0
+248,Rodd Slaughter,tangible,48.282193,37.1847804,Danish,1
+249,Dulcie Cescot,monitoring,38.5434693,-9.061097199999999,French,0
+250,Maiga O'Daly,Exclusive,39.964054,116.71496699999999,Kyrgyz,0
+251,Liza Harkes,Organized,45.6152297,-61.3552089,Tsonga,1
+252,Alistair Phizakarley,Synergistic,-7.2929068,107.26663959999999,Macedonian,1
+253,Duffy Burnell,Proactive,53.8191,27.5215,Greek,1
+254,Mirella Guynemer,function,36.599744,101.803717,Spanish,0
+255,Frasco Dubose,client-driven,49.0511571,4.0911917,Gujarati,0
+256,Julio Diggons,Compatible,35.025857,136.131182,Swati,1
+257,Rhoda Atley,solution,55.317303,21.017718,Tswana,1
+258,Alford Rohmer,productivity,-23.258548100000002,-55.541359,Persian,0
+259,Jacky Devon,modular,32.1856272,20.5870955,Amharic,1
+260,Sibylla Dinning,Reduced,-1.2920658999999999,36.821946200000006,Portuguese,0
+261,Brigit Alexis,leverage,56.847741000000006,53.202749,Armenian,1
+262,Heinrik Johnes,complexity,60.9596322,34.0219218,Czech,1
+263,Ebenezer Easom,Exclusive,27.218444,116.525725,Yiddish,0
+264,Zsa zsa Belchamber,Enhanced,14.6465082,120.9731375,Moldovan,1
+265,Desi Noore,circuit,12.5073384,39.5200688,Tsonga,1
+266,Mollie Markussen,contingency,13.7279858,100.49386159999999,Tsonga,1
+267,Krystalle McKeon,moratorium,14.611665499999999,-91.5105745,Marathi,0
+268,Conn Hurley,Inverse,43.25,67.65,Persian,1
+269,Kimbell Geekie,Polarised,41.05,-73.54,Hiri Motu,1
+270,Hobart Spellsworth,structure,-30.635764799999997,-67.4658213,Ndebele,0
+271,Zuzana Gensavage,benchmark,-8.561065600000001,115.13722379999999,Tamil,0
+272,Terrel Ewles,Mandatory,15.979374400000001,120.1912435,Kannada,1
+273,Yevette Loynes,time-frame,68.50471999999999,112.4485,Yiddish,1
+274,Corrine Simmance,Polarised,42.0107787,128.0660957,Catalan,1
+275,Dulcie Megarrell,Right-sized,34.691455100000006,112.4962138,Armenian,0
+276,Berna Benfield,Horizontal,38.7760203,-9.102409199999999,Estonian,1
+277,Lorens MacMichael,Customizable,-7.842653299999999,110.3859913,Dzongkha,1
+278,Zora Brabbins,demand-driven,-22.7042272,-46.9855088,Gagauz,1
+279,Edin Brunini,eco-centric,23.236168,111.409653,Marathi,1
+280,Katrinka Tunnicliffe,Pre-emptive,40.766965,114.74055700000001,Mongolian,1
+281,Ottilie Mabey,extranet,51.624866299999994,20.8139759,Northern Sotho,1
+282,Delores Di Carlo,coherent,45.88948,126.587709,Dutch,1
+283,Caddric Hember,Multi-tiered,-11.3826999,-75.7560455,Persian,1
+284,Gabriellia Beniesh,function,47.532117,7.593124,Haitian Creole,1
+285,Bel Corbitt,Innovative,-20.5912573,48.5312279,Sotho,1
+286,Gert Andriss,cohesive,48.120484000000005,-1.695391,Icelandic,0
+287,Daphne Benit,conglomeration,-22.72125,27.310570000000002,Tajik,0
+288,Arly Stitle,Object-based,49.033898799999996,17.340645600000002,Polish,0
+289,Bartram Klaessen,Reverse-engineered,25.90348,116.070449,Dhivehi,0
+290,Marcellina Harflete,Down-sized,47.1899563,31.5156018,Haitian Creole,1
+291,Lucina Overell,tertiary,36.691320000000005,68.79093,Yiddish,0
+292,Miner Saywood,Team-oriented,41.8457984,-8.419353599999999,Swati,1
+293,Steffane O'Dougherty,user-facing,-7.633333,108.13333300000001,Bulgarian,1
+294,Kerwinn Kelwaybamber,core,-3.6062721,128.24803020000002,Malay,0
+295,Juli Kincade,utilisation,-9.1384166,-77.7423469,Dzongkha,1
+296,Fidel Garter,hybrid,-25.4106487,-57.36095110000001,Korean,1
+297,Merlina Hathaway,circuit,49.549192299999994,22.079037,Montenegrin,0
+298,Currie Weir,De-engineered,-14.825831699999998,-64.9000247,Macedonian,0
+299,Rheta Cousans,core,40.483273600000004,44.385296600000004,Marathi,1
+300,Marc Rulf,info-mediaries,-10.1750977,-59.4478932,Estonian,0
+301,Flori Tinker,static,51.829578000000005,18.1397578,Guaraní,1
+302,Steffie Gatenby,model,44.298970000000004,-78.55989,Amharic,1
+303,Marietta McTurley,Multi-channelled,10.554131,123.01438449999999,Chinese,0
+304,Monica Bachellier,analyzing,0.8927499,33.5028005,Hiri Motu,1
+305,Cal Chew,analyzing,51.443824799999994,41.9604082,Telugu,1
+306,Benita Brahams,access,-6.898384,111.885002,Spanish,1
+307,Carleton Pirot,holistic,-1.68333,33.7,Luxembourgish,0
+308,Orlando Akehurst,discrete,29.932441999999998,114.36946999999999,Kurdish,1
+309,Thomasa Halifax,Implemented,52.2051033,6.9450818,Moldovan,0
+310,Carrissa Towll,moderator,30.8346,117.55273799999999,Hiri Motu,1
+311,Isador Dixie,capacity,54.164907299999996,37.5852425,Swati,0
+312,Shelley Reinert,groupware,10.330739900000001,123.8822107,Dhivehi,0
+313,Reilly Elvish,didactic,-7.0312600000000005,108.28306,Albanian,1
+314,Allister Philimore,initiative,53.56627220000001,9.947101199999999,Burmese,1
+315,Lon Shovel,Business-focused,33.200333,120.50085,Thai,1
+316,Luke Wrathall,encompassing,-15.170914800000002,-72.83086920000001,Estonian,1
+317,Logan Crolla,scalable,34.1009765,114.2138957,Lithuanian,0
+318,Milton Penkethman,zero administration,41.26327,71.54239,Tetum,1
+319,Natka Shand,Optional,41.5722945,20.052301899999996,Armenian,1
+320,Fairfax Favell,Multi-lateral,36.553769,116.75198600000002,Khmer,1
+321,Rubie Boutcher,foreground,54.1458603,49.761312200000006,Japanese,0
+322,Oates Dufour,Integrated,39.979686,116.481068,Guaraní,0
+323,Rici Oiller,Synergized,10.2600338,123.958258,Tsonga,0
+324,Freddi Caddens,Proactive,59.33563050000001,18.386112699999998,Persian,0
+325,Nollie Cavanagh,5th generation,31.2171769,121.5316367,Hungarian,0
+326,Biddie Dressel,empowering,49.5012266,14.545567499999999,Swedish,0
+327,Omar Dood,radical,36.753426700000006,139.2308293,Romanian,1
+328,Reinald Maxwaile,complexity,36.696954999999996,116.91104399999999,Nepali,0
+329,Bess Macieiczyk,model,26.111545,88.7178035,Telugu,0
+330,Humfrey Mears,asynchronous,14.061619,46.914966,Dari,1
+331,Finley Lomasny,uniform,49.563123499999996,21.7899388,Sotho,1
+332,Herman Chadderton,Team-oriented,48.7192002,32.6770961,Romanian,0
+333,Latisha O'Driscole,responsive,36.0336597,140.20641830000002,Telugu,0
+334,Janine Boult,analyzing,-9.7732,123.8661,Tamil,1
+335,Jaye Yakubowicz,Enterprise-wide,-7.216667,112.08333300000001,Afrikaans,0
+336,Stesha Balderston,migration,12.1929841,-61.7020265,Catalan,1
+337,Niccolo Basilotta,logistical,-7.348395,112.74947590000001,Estonian,1
+338,Ellis Kamall,incremental,53.8145,-1.56285,Malay,0
+339,Sebastien Blaw,Compatible,-36.23975,-61.121304,Thai,1
+340,Reuben Cundey,functionalities,-12.8255986,45.1149977,Norwegian,0
+341,Corty Keyzman,paradigm,32.6717749,-16.978243,Finnish,0
+342,Parnell Clemmey,data-warehouse,8.4538411,39.280399100000004,Tajik,0
+343,Jandy Sumption,Synergized,42.871502,127.501873,Catalan,0
+344,Tamra Kemwall,optimizing,-6.9110023,107.1750393,Malayalam,1
+345,Eddy Keeley,solution-oriented,18.5591814,-99.5982999,Dzongkha,0
+346,Zach Godmar,implementation,54.36666999999999,24.33333,Czech,1
+347,Westbrooke Altimas,cohesive,-7.6378395999999995,107.72809199999999,Marathi,1
+348,Teddie Matteucci,grid-enabled,29.828119,107.14008799999999,Maltese,1
+349,Lyn Mackieson,collaboration,59.7591906,30.4729492,Albanian,0
+350,Fonzie Birkenshaw,Right-sized,7.4554641,4.544392299999999,Irish Gaelic,0
+351,Law Mayhew,benchmark,42.654146000000004,122.74928200000001,Macedonian,1
+352,Vonny Reiner,Optimized,14.578621,121.0702405,Haitian Creole,1
+353,Lorrayne Weatherell,5th generation,65.13834920000001,57.1903905,Somali,1
+354,Kary Prydden,tangible,54.6251384,22.2106878,Bulgarian,1
+355,Kiley Davio,intranet,36.222959,107.788257,Dzongkha,1
+356,Steward Gimenez,groupware,14.773124,49.380547299999996,Ndebele,1
+357,Nikolia Vennings,internet solution,35.8413934,14.546637400000002,Arabic,1
+358,Rosa Kleisle,definition,23.422152,106.68113799999999,Dutch,1
+359,Damara Barizeret,frame,-16.0047799,-41.2815064,Thai,0
+360,Rogers Pilcher,Versatile,-6.2686877999999995,139.9469432,Guaraní,0
+361,Rhodia Waslin,Public-key,36.6512,117.12009499999999,Danish,0
+362,Jorry MacKegg,Business-focused,39.43057329999999,21.6627892,Māori,0
+363,Andy O'Hoolahan,modular,32.0378049,118.7870855,Azeri,0
+364,Joyce Hamilton,Fully-configurable,7.351783800000001,122.2833466,Catalan,1
+365,Sharl Matresse,interactive,-6.2948133,106.72051540000001,Telugu,0
+366,Thorin Kunrad,Reverse-engineered,48.039842799999995,30.9521026,Pashto,0
+367,Sawyere Ellgood,reciprocal,47.581201,1.375111,Macedonian,0
+368,Elfreda Luciano,toolset,29.251181,105.90941699999999,Guaraní,0
+369,Courtnay Rudyard,3rd generation,5.011705999999999,-74.470362,Māori,0
+370,Merissa Weathey,value-added,-8.7223957,115.1767095,Macedonian,1
+371,Farr O'Dougherty,middleware,-34.618297399999996,-58.530320200000006,Amharic,1
+372,Shela Halifax,Proactive,34.348659999999995,106.00991499999999,Tok Pisin,0
+373,Jenelle Donovan,Multi-layered,44.9794968,19.620966199999998,Dzongkha,0
+374,Emmey Voss,Configurable,49.4118611,16.4208386,Thai,0
+375,Carroll Valens-Smith,system-worthy,-21.0156896,-48.7794089,Dari,0
+376,Vivyanne Bustin,Secured,-3.3619906000000004,122.5917078,Northern Sotho,1
+377,Celie Fairebrother,software,40.5982816,-8.643537,English,0
+378,Goldina Mila,non-volatile,38.731402,112.71105800000001,Portuguese,1
+379,Coralie Bernuzzi,Pre-emptive,15.4566044,-91.8808763,Albanian,1
+380,Torry Thorrold,6th generation,-8.5774,119.0069,Afrikaans,0
+381,Ethe Wohler,real-time,31.0409483,31.378470399999998,Haitian Creole,1
+382,Cordy Deuss,paradigm,0.7788357,103.4627375,Hebrew,0
+383,Boigie Arnault,coherent,45.112439,21.2185241,Tok Pisin,0
+384,Chastity Swancock,Business-focused,24.006293,114.113382,Gujarati,1
+385,Ricard Longforth,standardization,51.7783026,4.693265,Oriya,0
+386,Madelyn Beedom,Ameliorated,40.324916200000004,45.1099356,Zulu,1
+387,Adel Deshorts,orchestration,31.5977,118.45323,Malay,1
+388,Raymond Harewood,Grass-roots,23.170455,114.41966699999999,Italian,0
+389,Salvidor Maliffe,national,-33.6060255,-70.87818370000001,Māori,1
+390,Claudian Behrend,Re-engineered,-26.5090889,17.151406100000003,Northern Sotho,0
+391,Merill Bricknall,uniform,57.490976100000005,12.058599300000001,Finnish,1
+392,Waverly Eliet,forecast,24.868957899999998,67.0043278,Portuguese,1
+393,Valle Tunney,array,57.2900329,13.5137081,Assamese,0
+394,Kellyann Brewin,discrete,59.27857289999999,15.2250924,Nepali,1
+395,Benton Lorman,workforce,-5.1291727,-67.18944880000001,Armenian,0
+396,Reidar Tolson,web-enabled,54.05182270000001,35.229882,Georgian,1
+397,Ikey Radmore,pricing structure,13.4292207,-88.5945715,Czech,0
+398,Jewell Tolefree,Robust,20.551136399999997,-103.461601,Swahili,1
+399,Rhetta Iglesiaz,installation,-34.6126133,-58.5677879,Sotho,0
+400,Ave Meijer,hardware,48.6197483,-123.4169098,Afrikaans,1
+401,Alejoa Bosse,Optimized,20.9425179,-17.0362272,Kannada,0
+402,Andrej Torbard,Assimilated,-7.262294,110.403477,Northern Sotho,0
+403,Car Bunclark,Grass-roots,34.329605,108.708991,Haitian Creole,1
+404,Henderson Boost,Right-sized,-7.6646951,110.3189662,Dutch,1
+405,Bron Abelovitz,definition,60.053638,29.9846651,Tajik,0
+406,Candida Ort,Compatible,23.0861808,113.49431990000001,Northern Sotho,1
+407,Cathleen England,system engine,54.126654,22.361868899999997,Polish,0
+408,Farrand Bedells,intermediate,6.848589,101.41120490000002,Gagauz,0
+409,Wendel Tunnoch,Distributed,49.9958286,88.6754902,Malay,0
+410,Arvy Selcraig,system-worthy,-6.2318126,106.8396166,Dzongkha,1
+411,Berny Zimek,tertiary,61.571545400000005,31.486934100000003,Catalan,1
+412,Berty McKyrrelly,zero administration,53.5325424,91.92063409999999,West Frisian,1
+413,Roman Marusic,Open-architected,44.3338201,85.6264576,Gujarati,1
+414,Aurilia Stihl,Reverse-engineered,-20.737111600000002,-48.911060600000006,Dhivehi,0
+415,Cinderella Firmager,Advanced,40.727503999999996,19.562759600000003,Northern Sotho,1
+416,Derrek Jencey,frame,-0.7771138000000001,34.9458389,West Frisian,0
+417,Sandye Derye-Barrett,radical,8.797145,-75.698571,Croatian,1
+418,Nance Janny,6th generation,14.561859900000002,121.0130439,Hebrew,1
+419,Chad Gerrish,24 hour,-6.8005667,111.2099808,Indonesian,0
+420,Cindi Buckthought,24 hour,-23.701721,-52.660023200000005,Icelandic,1
+421,Candide Bindon,monitoring,6.191676999999999,-73.0169135,Hebrew,0
+422,Essa Hearthfield,installation,43.800779,131.978812,Luxembourgish,0
+423,Belita Autin,explicit,33.626149,114.69695,Haitian Creole,1
+424,Ted Burridge,Digitized,-36.7247834,-73.1169808,Tswana,1
+425,Karyn Grishagin,Graphical User Interface,-9.7732,123.8661,Filipino,0
+426,Rosamund Jarritt,open architecture,1.4403743999999998,125.1216524,Lithuanian,1
+427,Debbie Medling,complexity,36.706962,119.161748,Indonesian,0
+428,Alia Fillary,coherent,49.7647258,16.9050077,Amharic,0
+429,Jemmie Axelbee,zero administration,32.236470000000004,35.38711,Montenegrin,0
+430,Clevie Dillingstone,middleware,-6.499192099999999,106.8915948,Belarusian,1
+431,Hedvige Shore,fresh-thinking,18.1145292,121.40235870000001,Malayalam,0
+432,Husein Evens,Expanded,-14.100748699999999,-71.4306785,Dutch,0
+433,Egan Loghan,analyzing,6.053642099999999,121.0004951,Nepali,1
+434,Nathan Peoples,Front-line,10.0749997,-84.2415229,Polish,0
+435,Dita Toma,Managed,-5.3102887999999995,119.742604,Azeri,1
+436,Catherine Dowry,zero tolerance,49.5970348,16.041166,Estonian,0
+437,Lil Gawthrope,mission-critical,13.9906389,100.6184588,Finnish,1
+438,Daisie Rolland,Diverse,14.9247834,-85.692279,Telugu,0
+439,Bengt Pughsley,Progressive,7.930626400000001,80.7207444,Kashmiri,0
+440,Willa Allery,Balanced,14.314426500000001,100.3722477,Swahili,1
+441,Patricia Tilling,bottom-line,36.689044,117.302269,Azeri,0
+442,Aundrea Shill,core,7.0727574,100.4059456,Somali,0
+443,Donal Ambrosini,time-frame,42.1400691,25.5719576,Bengali,1
+444,Isidora Fundell,Managed,20.5072923,-13.052978,Czech,0
+445,Moselle Tait,application,35.3750852,24.2012676,Nepali,0
+446,Bentley Attwell,tangible,-7.3225,107.86,Azeri,0
+447,Thane Snoxill,solution-oriented,31.506462300000003,74.3268113,Indonesian,1
+448,Parsifal Tarplee,database,5.3599517,-4.008256299999999,Icelandic,1
+449,Melany Labone,process improvement,42.583016,122.445594,Hungarian,1
+450,Benny Rechert,radical,50.8548419,39.0632827,Greek,0
+451,Torry O'Carroll,context-sensitive,48.726098,128.939819,Danish,0
+452,Abby Chene,systemic,22.483182,113.916509,Macedonian,1
+453,Celine Howood,well-modulated,-34.566408,-58.551111999999996,Japanese,1
+454,Ram Iggo,forecast,-21.971978399999998,-51.6528409,Azeri,0
+455,Xylia Caldes,responsive,13.391388899999999,-16.6525,Hebrew,0
+456,Timoteo Jozefczak,Ameliorated,15.933333,44.066666999999995,German,0
+457,Kort Danilowicz,Quality-focused,39.14423789999999,23.8641946,Czech,0
+458,Chauncey Bonnier,responsive,28.650271999999998,77.12325809999999,Aymara,1
+459,Markos Embery,Decentralized,6.919884,122.0616469,Persian,1
+460,Becka Scollick,bandwidth-monitored,40.317212899999994,-8.754316099999999,Luxembourgish,1
+461,Mischa Lotze,Multi-channelled,8.6800991,-82.855251,Spanish,0
+462,Cherie Doerr,Persistent,-7.169734299999999,108.83435379999999,Dzongkha,0
+463,Humfried Keesman,synergy,-6.351797900000001,106.10786270000001,Latvian,1
+464,Yuri Bedle,interactive,30.031533000000003,101.014425,Haitian Creole,0
+465,Kirbie Persian,asynchronous,-6.888394,112.3307965,Finnish,0
+466,Marline Tribble,transitional,48.0999989,-66.0999999,Dhivehi,0
+467,Shay Bransdon,alliance,35.532662,104.52848,Croatian,1
+468,Julian Meeking,Ameliorated,52.9352213,70.188509,Malagasy,0
+469,Adeline Auletta,firmware,48.282469799999994,25.1584914,Amharic,0
+470,Conrade Rogger,Integrated,-23.371186399999996,-46.7575221,Bengali,0
+471,Mathias Harbage,full-range,52.628225199999996,18.727124,Portuguese,0
+472,Nev Springtorp,Stand-alone,44.333710700000005,40.7679998,Indonesian,1
+473,Laryssa Butchers,Mandatory,18.9452479,-70.36945940000001,Thai,0
+474,Jo-anne Dominy,Open-source,40.9624179,24.508269600000002,Icelandic,0
+475,Britney Gaydon,next generation,39.99474620000001,116.33977250000001,Burmese,0
+476,Daisi Lamp,flexibility,-7.2586059999999994,108.4444578,Danish,0
+477,Daisi Gorcke,Open-source,-15.1471649,-73.3406579,Japanese,1
+478,Ford Gregolotti,Phased,-15.641215599999999,-70.34946049999999,Thai,1
+479,Joella Bound,incremental,41.805699,123.431472,West Frisian,1
+480,Lurlene Surgener,core,50.246964,120.18964109999999,Northern Sotho,1
+481,Cynthy Cornick,Profound,0.4478566,33.2026122,Persian,0
+482,Brandea Shane,optimizing,42.525760299999995,21.1225078,Georgian,1
+483,Marney MacIlurick,strategy,22.923431,112.73263200000001,Armenian,1
+484,Mildrid Denington,executive,8.508983,125.96966699999999,Moldovan,0
+485,Lenna Spiers,artificial intelligence,-7.097667200000001,109.0215438,Albanian,0
+486,Hattie Rosita,Graphic Interface,54.01140229999999,55.89252809999999,Guaraní,0
+487,Hertha Lapsley,Expanded,-6.418542400000001,106.8502879,Swahili,1
+488,Enoch Barten,4th generation,41.985414399999996,44.108411,Oriya,1
+489,Magdalena Johananoff,Vision-oriented,56.6342788,36.885813,Kashmiri,1
+490,Olivero Howsam,Reactive,-20.2513658,57.6184076,Pashto,0
+491,Corbett Gueny,focus group,22.122657999999998,112.814502,Sotho,1
+492,Quinn Lenox,radical,5.780633900000001,36.5715924,Mongolian,1
+493,Con De Leek,global,8.059914200000001,-6.189826200000001,Papiamento,1
+494,Egan Guittet,Managed,31.559965999999996,114.12144099999999,Japanese,0
+495,Hal Fogg,Fully-configurable,42.4338529,68.8129042,Korean,0
+496,Linnell Harrow,didactic,35.647887700000005,117.27869059999999,Bulgarian,1
+497,Esteban Danovich,interface,46.678613,141.85595790000002,Azeri,1
+498,Twyla Dunnet,Enterprise-wide,-1.5105198999999998,101.2750531,Tsonga,0
+499,Kane Revington,didactic,-7.3356582999999995,109.0798332,Dutch,0
+500,Korney Phipp,Persevering,7.5406,9.649249000000001,Swedish,1
+501,Hobard Cordner,core,31.77078,35.26916,Northern Sotho,0
+502,Ashlie Oldaker,empowering,49.11654,-117.55221999999999,Kannada,0
+503,Ashia Nerne,demand-driven,13.878171499999999,-89.16107480000001,Georgian,0
+504,Roselle Freeman,Cloned,7.0228416,121.91955859999999,Gujarati,1
+505,Alvira Jakovijevic,pricing structure,49.871007,17.8758236,Pashto,0
+506,Vikki Talloe,Persevering,55.921585,158.709579,Irish Gaelic,1
+507,Edy Renzullo,Compatible,49.610186299999995,14.906333800000002,Polish,1
+508,Robby Faires,Business-focused,14.6701,121.108226,Spanish,0
+509,Marley Marchenko,Switchable,49.116169,6.180799700000001,Azeri,1
+510,Rand O'Henehan,product,-7.9431343,112.6183751,Malayalam,0
+511,Martie Glaysher,Ergonomic,24.347324,102.527197,Chinese,0
+512,Bertrand Bradnick,mobile,30.319558,-95.46479529999999,Norwegian,1
+513,Ermanno Trusty,web-enabled,25.6218514,51.083581099999996,Kurdish,1
+514,Franky Colmore,monitoring,11.8962488,-14.1001326,Chinese,0
+515,Tilda Rydings,secondary,39.817642,-75.5101999,Swedish,1
+516,Michele Bolzen,background,-7.986886900000001,113.75138270000001,Belarusian,1
+517,Noll Gaffer,bandwidth-monitored,14.41225,44.836578,Khmer,1
+518,Noelyn Seville,flexibility,58.955833,36.5925,Māori,0
+519,Catherina Summerrell,utilisation,6.680204400000001,101.41120490000002,Khmer,0
+520,Aymer Bridgett,object-oriented,57.6438118,39.805212100000006,Catalan,1
+521,Tonie Pearde,frame,54.0852394,-4.754467099999999,Hungarian,0
+522,Ettie Brute,static,-41.3167,-72.9833,French,1
+523,Staci Shimuk,user-facing,31.644606,119.781147,Kashmiri,1
+524,Reinald Mummery,Business-focused,49.747898299999996,16.5775355,Sotho,1
+525,Tamara Dockrey,open system,-12.144439300000002,-44.9965028,Swahili,0
+526,Huntlee Alcock,dedicated,50.88758,21.666539999999998,Aymara,0
+527,Grete Tomes,user-facing,21.72342,108.452555,Georgian,0
+528,Dannie Gidney,Implemented,49.0498305,15.5547835,Dari,0
+529,Rosette Flexman,Customer-focused,34.895103799999994,36.1355295,Tok Pisin,1
+530,Lurline Murdoch,non-volatile,38.590819200000006,-9.017700999999999,Japanese,1
+531,Clark Hockell,De-engineered,37.97,-87.56999990000001,Bengali,1
+532,Billy Chessum,secondary,50.1080652,14.918184699999998,Nepali,1
+533,Franz Ladley,Programmable,-18.4943258,-40.4657826,Bosnian,0
+534,Laryssa Klossmann,neutral,-7.118661200000001,112.47164879999998,Fijian,1
+535,Sheffield Renzullo,neutral,32.3909084,74.05722259999999,Dzongkha,0
+536,Glen Appleyard,strategy,13.53605,144.88855,Telugu,1
+537,Malynda Presnall,methodical,55.7570915,37.6047016,Korean,0
+538,Judah Brilon,process improvement,7.448910000000001,-71.304474,Korean,0
+539,Kathe Chidzoy,Horizontal,25.329044,118.27023799999999,Hungarian,1
+540,Madlen Dallander,Synchronised,30.572815000000002,104.066801,Spanish,1
+541,Peggy Hanbury,Robust,39.6208162,-8.656396699999998,Norwegian,0
+542,Alfred Mordecai,executive,-23.7219872,44.3827547,Tajik,1
+543,Jerrylee Dobby,Secured,43.494573700000004,5.8978018,Oriya,1
+544,Farly McAllester,Ameliorated,41.603085,46.638308,Hiri Motu,0
+545,Horatia Pascall,needs-based,53.63918,15.62129,Romanian,1
+546,Glad Hatfield,asynchronous,46.441509499999995,15.611849800000002,Armenian,1
+547,Seymour Mum,archive,-33.5938745,18.5268253,Filipino,0
+548,Paton Gallihaulk,radical,-6.9917588,111.27854070000001,Hiri Motu,1
+549,Nikos Crossfield,ability,38.94,-77.08,Ndebele,1
+550,Gusti Kopfen,Organic,48.282193,37.1847804,Malagasy,0
+551,Gard Blyden,Digitized,47.1426,28.629541600000003,Tsonga,1
+552,Sherline Harome,fresh-thinking,56.969664,23.15319,Malagasy,0
+553,Dudley Shelmerdine,functionalities,19.385170499999997,-99.1837453,Dari,1
+554,Boniface Eden,encryption,-21.0156896,-48.7794089,Italian,0
+555,Gerrilee Izhakov,maximized,64.5661757,39.850598100000006,Tetum,0
+556,Charmain Grogor,extranet,18.4445307,-69.9316834,Lao,1
+557,Care Cradduck,artificial intelligence,45.2110039,14.5569253,Bislama,0
+558,Meredithe Bredes,Ameliorated,12.623472099999999,-87.12732530000001,Latvian,0
+559,Laverne Nore,intangible,34.582499600000006,-2.5098914,Papiamento,1
+560,Annabell De Lascy,Streamlined,-1.8807630000000002,105.668503,Georgian,1
+561,Petunia Bravery,fresh-thinking,33.901437200000004,-4.0271731,Georgian,0
+562,Salvador Bundock,Universal,-7.3251615,108.23033799999999,Estonian,1
+563,Shirlene Heddan,hardware,13.9129,120.88006000000001,Burmese,0
+564,Lynnette Bettam,Quality-focused,47.068212200000005,-0.8494862,Tajik,1
+565,Kathy Ranklin,multimedia,37.9209684,21.237412399999997,Zulu,1
+566,Gerik Moxted,capacity,10.5308066,105.1609838,Kannada,0
+567,Rollin Mackilpatrick,leverage,25.257168,116.421093,Tajik,0
+568,Barclay Dibbe,Proactive,-2.9001285,-79.00589649999999,Dhivehi,0
+569,Tannie Mordie,Persistent,22.7315115,-98.9735333,Irish Gaelic,1
+570,Austin Lorenc,Profound,-34.6730937,-58.5501558,Swati,0
+571,Tobey Bazely,24 hour,35.0018174,33.8913539,Telugu,0
+572,See Castri,Visionary,13.6043647,123.51957079999998,Romanian,0
+573,Darsie Ourry,Total,28.040993,120.65881200000001,Greek,0
+574,Lou Creaney,cohesive,33.8297993,46.3073161,Kashmiri,0
+575,Angus Marzello,multimedia,39.43641029999999,-8.2988008,Finnish,1
+576,Hyacinthie Langston,User-centric,40.224089899999996,-7.650051299999999,Assamese,1
+577,Felice Sor,Diverse,7.0115716,39.9761012,Malagasy,0
+578,Hube McGuigan,knowledge user,-3.012309,33.0873408,Thai,1
+579,Aime Haddington,multimedia,38.25373629999999,48.2999901,Marathi,0
+580,Miquela Wildman,moderator,39.818495899999995,116.55585239999999,Bislama,1
+581,Kristen Vedikhov,systemic,-6.9244162,112.4142453,German,1
+582,Sheffy Attwoul,paradigm,40.343992,123.4454,Macedonian,0
+583,Normie Tresler,Upgradable,53.286637199999994,-6.2508196,Croatian,1
+584,Tibold Hazle,next generation,-6.5778193,106.8075136,Khmer,1
+585,Taddeusz Matas,modular,16.16667,120.53333,Zulu,0
+586,Shayne Joutapaitis,Phased,38.0426062,23.7536323,Dzongkha,0
+587,Gordie Ellens,encryption,55.6700613,12.5468826,Afrikaans,1
+588,Marnie Carpenter,Business-focused,45.2188634,17.381195899999998,Irish Gaelic,0
+589,Vivianne Kollaschek,didactic,14.3059024,99.4783816,Moldovan,0
+590,Annetta Mervyn,multi-tasking,21.1062206,107.83469240000001,Swedish,1
+591,Vale Hanna,capability,-6.714033099999999,111.6295545,Indonesian,1
+592,Adelle Billingham,static,5.1215877,7.3732655,Swedish,0
+593,Marne Keat,time-frame,43.2311668,44.642027299999995,Filipino,1
+594,Chrisy McCurdy,Persevering,45.333333,96.65,Belarusian,1
+595,Hedda Lyall,Business-focused,-26.3593066,25.9068847,Burmese,0
+596,Christabel Pickton,hybrid,30.041325699999998,31.2046714,Hebrew,0
+597,Gretchen Itschakov,knowledge user,40.417358,117.50055800000001,Luxembourgish,1
+598,Ward Dammarell,Ameliorated,25.0329694,121.56541770000001,Kannada,0
+599,Brod Brierley,intermediate,49.4660029,1.0736573999999999,Maltese,1
+600,Jordon Greg,scalable,43.4794825,-79.65582420000001,Ndebele,1
+601,Hastings Shannon,global,33.8779889,132.2526506,Polish,0
+602,Kermit Burn,Fundamental,44.7515479,-79.8779499,Hindi,0
+603,Flss Schleswig-Holstein,Diverse,41.805699,123.431472,Kazakh,0
+604,Alexandros Bertomieu,attitude-oriented,22.9457326,112.3578078,Armenian,1
+605,Shaylynn Gowers,holistic,35.732797999999995,116.489043,Tswana,0
+606,Muhammad Driuzzi,exuding,48.0931021,25.9224603,French,1
+607,Vito Gerault,knowledge base,35.215062599999996,135.2255291,Kurdish,0
+608,Misty Duddy,solution-oriented,61.5928356,24.5915028,Thai,0
+609,Hayes Grantham,migration,35.069045,-80.67851800000001,French,0
+610,Hermie Cowhig,asymmetric,53.693615599999994,16.7047258,Azeri,1
+611,Janina Landre,implementation,41.1279946,-7.9859629,Afrikaans,0
+612,Sophi Kibbee,Adaptive,18.624314399999996,98.8938543,Tok Pisin,1
+613,Danielle Gore,directional,42.3233666,-7.858556200000001,Danish,1
+614,Fonz Sprague,Synergized,39.0407357,117.63981070000001,Hiri Motu,0
+615,Myrlene Tumber,matrices,4.289193099999999,21.0102737,Guaraní,0
+616,Teodor Serchwell,challenge,-38.7445218,-72.9482281,Spanish,1
+617,Scot Cossom,3rd generation,-34.5377407,-58.5521828,Kannada,0
+618,Berri Lammerich,Realigned,47.5860611,-52.69121260000001,Pashto,0
+619,Westbrooke Matej,Profit-focused,-8.449870599999999,122.7689479,Yiddish,0
+620,Kippar Davids,array,37.64103789999999,-7.6589255000000005,Telugu,1
+621,Philippa Beare,collaboration,15.399652,120.5982723,Polish,0
+622,Horatio Varlow,policy,40.367260200000004,20.428443100000003,Chinese,0
+623,Deck Ledekker,Total,16.75245,100.2625222,Somali,0
+624,Brittani Shrigley,Front-line,56.5385265,14.1115837,Czech,0
+625,Margo Dell Casa,Total,-7.3737257,107.7103291,Tajik,1
+626,Gannie Brokenshaw,Implemented,24.884626,104.308675,Finnish,0
+627,Nevin O'Griffin,scalable,57.5038558,59.8937563,Kurdish,1
+628,Levin Kinch,Switchable,14.3839328,121.050126,Bosnian,0
+629,Zachariah Warbeys,Synergistic,50.4233463,80.250811,Tok Pisin,0
+630,Aube Nuton,Synergized,43.494573700000004,5.8978018,Portuguese,1
+631,Toiboid Reeders,Distributed,17.270219100000002,100.12551640000001,Tetum,0
+632,Brit McConnell,local,-6.7347875,111.4648515,Swahili,1
+633,Mahmud MacMichael,leading edge,-7.6182490000000005,110.6630784,Sotho,0
+634,Fidelia Mountcastle,system-worthy,16.73333,51.48333,Romanian,1
+635,Belita Vasyatkin,Assimilated,-6.260838400000001,106.8207875,Malay,0
+636,Tatiana Scandrett,Cross-platform,25.9182262,13.9260001,Catalan,1
+637,Marleah Dawidowsky,Integrated,49.0096906,2.5479244999999997,Armenian,0
+638,Valeria MacAulay,cohesive,-11.672363800000001,-61.1984811,Armenian,0
+639,Raven Lindner,intermediate,8.7603327,-70.1158113,Japanese,0
+640,Shellysheldon Tyers,radical,37.77026,117.62569599999999,Maltese,1
+641,Michal Mowatt,Sharable,59.35,18.5,French,1
+642,Valerye Rickarsey,contextually-based,29.6793128,-82.3723105,Hungarian,0
+643,Karon Chesters,superstructure,-19.6189005,-44.0404979,Tok Pisin,0
+644,Deane Marchiso,executive,-33.5854485,-70.69873609999999,Tamil,0
+645,Sallee Emeny,logistical,40.458915999999995,-7.877548399999999,Sotho,0
+646,Jewell Cantillion,monitoring,10.090411999999999,-75.4577775,Polish,0
+647,Kalina Marple,logistical,51.449197,7.195777900000001,Armenian,1
+648,Fred Caulfield,Devolved,40.92194,19.717779999999998,Tsonga,0
+649,Ignace Isson,responsive,21.694896,110.307347,Telugu,1
+650,Cicely Storie,utilisation,9.474169999999999,-78.96667,Irish Gaelic,1
+651,Judith Corby,Innovative,23.110052,113.240664,French,0
+652,Dena Schwier,open architecture,47.5039111,19.0158217,Swati,1
+653,Malcolm Floweth,Function-based,41.670451899999996,-4.7135267999999995,Moldovan,1
+654,Dita Hurton,capability,-11.9019296,-76.6658165,Hindi,1
+655,Deni Brymham,Business-focused,-22.249670899999998,-43.8290988,Burmese,0
+656,Jenda Twittey,multimedia,-8.6433591,116.49609790000001,Kurdish,0
+657,Lacy Carlill,Enterprise-wide,-19.223651399999998,-45.005692100000005,Montenegrin,0
+658,Dean McCarter,Open-architected,33.1401715,119.78892479999999,Gagauz,0
+659,Merrilee Rospars,process improvement,-10.174884500000001,123.5714032,Lithuanian,0
+660,Orville Hadlow,approach,41.713077500000004,-8.687644,Portuguese,1
+661,Karl Bleackley,clear-thinking,44.55015,-64.24874,Guaraní,1
+662,Sashenka Yuryaev,intangible,47.3920847,8.538206599999999,Bengali,0
+663,Dimitri Shearme,Public-key,48.9323908,2.4774664,Swedish,0
+664,Vaughn Tolland,Implemented,57.6866936,12.211668300000001,Fijian,1
+665,Salvatore Shewry,national,49.5318094,15.2242807,Fijian,0
+666,Corny Keely,neutral,22.915094,112.044491,Tswana,1
+667,Frazier Lynes,optimizing,-6.1671806,106.83406219999999,Latvian,0
+668,Olag Matyatin,4th generation,53.565967500000006,15.28454,Bulgarian,1
+669,Carol-jean Pinnington,Persistent,15.5056823,-86.34781509999999,Malagasy,1
+670,Vernen Goade,Down-sized,24.803563,115.48273300000001,Tajik,0
+671,Lenna Lentsch,Multi-tiered,14.6901945,-87.7480377,West Frisian,0
+672,Joli Crewdson,bi-directional,-2.7180891,17.686647100000002,Afrikaans,0
+673,Amerigo Grigg,transitional,34.4344694,133.2279653,Haitian Creole,0
+674,Hayyim Speerman,User-centric,9.5608923,-73.3384471,English,1
+675,Kass Nelsey,approach,59.7458284,18.6851872,Macedonian,0
+676,Rosalinda Bartoletti,radical,37.1356467,-8.517474400000001,Irish Gaelic,1
+677,Emmi Zima,neutral,-29.223186699999996,-51.3423619,Hindi,0
+678,Aaren Suddick,composite,7.2484595999999994,125.05875049999999,Belarusian,0
+679,Nettie Sweetman,middleware,34.936352299999996,-2.7431421,Czech,0
+680,Carson Strand,zero administration,5.9840985,116.0761121,Portuguese,1
+681,Freddie Le Gallo,content-based,42.1132871,-8.257490400000002,Kazakh,0
+682,Woody Emmott,orchestration,14.203044699999998,101.7751709,Dhivehi,0
+683,Lisette Castenda,workforce,33.8676555,130.8939207,Marathi,1
+684,Amalea Acock,info-mediaries,-7.023103999999999,108.27630690000001,Tsonga,0
+685,Thomasa Standingford,initiative,-7.075540400000001,109.4199623,Tok Pisin,1
+686,Shirline Oleksinski,access,-6.4698758000000005,107.4780383,Tamil,0
+687,Levin Branson,value-added,-10.7981117,122.99446359999999,Papiamento,1
+688,Waverley Manville,secondary,25.8006926,55.97619939999999,Korean,0
+689,Aprilette Calladine,context-sensitive,39.8314629,116.32209440000001,Norwegian,0
+690,Chariot Fussie,neural-net,-17.5637341,-149.59880890000002,Kurdish,0
+691,Eddy Zanneli,knowledge user,23.12911,113.264385,Lao,0
+692,Stephanus Costa,non-volatile,6.8793892,-72.189,Tamil,1
+693,Silvio Furniss,orchestration,35.417571200000005,10.997658,Persian,0
+694,Bradly Florio,intangible,-7.1480086,107.89956289999999,Māori,0
+695,Porter Grattage,Self-enabling,46.647310499999996,0.813275,Montenegrin,0
+696,Matti Castellini,maximized,39.586554,118.644299,Czech,1
+697,Ilysa Boater,collaboration,18.2726824,-70.2297697,Kyrgyz,1
+698,Jacob Willatt,6th generation,50.866769899999994,18.828601000000003,New Zealand Sign Language,0
+699,Dory Gilling,methodology,-6.716099799999999,111.4886997,Tamil,0
+700,Igor Quincee,data-warehouse,50.7326515,41.9594576,Nepali,0
+701,Pansy Armsby,needs-based,-6.161512999999999,106.838424,Czech,1
+702,Brewster Piscotti,heuristic,49.534516100000005,26.209307199999998,Tsonga,0
+703,Alla Liveing,circuit,54.20485279999999,73.56589009999999,Gagauz,1
+704,Brucie Abendroth,moratorium,58.324425899999994,12.278769,Māori,1
+705,Orella Basezzi,bottom-line,-6.564395599999999,106.25221429999999,West Frisian,0
+706,Brewer Allport,parallelism,27.254639,102.55502800000001,Malayalam,0
+707,Alberik Caldera,Graphic Interface,51.363916499999995,46.0293715,Luxembourgish,1
+708,Jillane Bexley,interface,-14.34823,-72.12155899999999,Sotho,0
+709,Yves Ernshaw,encryption,17.642573600000002,-61.8204456,Guaraní,1
+710,Pascale Blenkharn,asynchronous,55.4018986,12.862709599999999,Kurdish,1
+711,Adrianne Hoffner,software,37.0741297,-8.8436815,Lithuanian,0
+712,Chelsie Philler,5th generation,41.872438700000004,113.0741002,Estonian,0
+713,Greggory Dobrowski,local area network,6.027632,-75.431596,Kazakh,0
+714,Gerta McDonough,migration,52.7704654,17.9583306,Icelandic,0
+715,Teodoro Bicheno,access,38.447557200000006,-7.5669496,Hiri Motu,0
+716,Lonnie Eite,high-level,-7.221562,111.759598,Hungarian,0
+717,Chancey Balderson,installation,55.96666999999999,25.15,Luxembourgish,0
+718,Tailor Durant,Face to face,47.4389969,101.7525358,Persian,0
+719,Janka Gostridge,exuding,62.9663709,27.6707397,Romanian,1
+720,Vaughan Lamburn,Configurable,26.665616999999997,119.547932,Irish Gaelic,1
+721,Sondra Planque,benchmark,7.7688818,125.82395430000001,Guaraní,0
+722,Emma Slowly,Reduced,30.798775,121.33638,Estonian,0
+723,Dana Matyushonok,website,57.2840834,55.45432460000001,Dzongkha,0
+724,May Kleinstein,client-server,40.7634529,-73.97988079999999,Malagasy,1
+725,Eugenio Smalls,6th generation,54.1694522,74.69325,Moldovan,1
+726,Mimi Salandino,Enterprise-wide,31.3115396,120.6947551,Japanese,0
+727,Rock Ciobutaru,interactive,14.8548457,105.0791228,Tamil,1
+728,Darb Tregale,Diverse,22.801624,113.52516499999999,Moldovan,0
+729,Elvin Klampk,productivity,29.020827,110.637506,Icelandic,1
+730,Baxie Ville,Seamless,34.89305,106.864397,Chinese,0
+731,Conway Thresher,Seamless,49.879152000000005,15.931610899999999,Tok Pisin,1
+732,Ema Mart,Horizontal,49.2088023,39.5896987,Somali,0
+733,Georas Minger,monitoring,52.1682974,17.895562899999998,Swati,1
+734,Brok Davidovici,Reactive,38.263135,113.650485,Dutch,1
+735,Dredi Haddrell,archive,55.385815,37.545315,German,1
+736,Sherill Nickerson,interface,40.532993299999994,50.0035678,Tsonga,0
+737,Frederica Ballister,context-sensitive,34.833091499999995,137.230017,Hiri Motu,1
+738,Gerry Huthart,disintermediate,-29.223186699999996,-51.3423619,Tamil,1
+739,Berke Pray,Monitored,-3.446207,30.2512728,Nepali,0
+740,Patricio Mitrovic,4th generation,55.77846070000001,27.932381699999997,Gujarati,0
+741,Viole Mazillius,value-added,48.8335842,2.3757658999999998,Dutch,0
+742,Smith Trowle,Enterprise-wide,13.866670000000001,45.25,Nepali,1
+743,Panchito Headings,hierarchy,5.4600818,-73.98004,Montenegrin,0
+744,Ethelin Slobom,tertiary,56.44750160000001,36.5587561,Assamese,0
+745,Denis Alty,Profound,39.602476200000005,47.1523402,Zulu,1
+746,Louise Longford,demand-driven,19.3579802,-99.0806088,Latvian,1
+747,Tobye Townby,user-facing,46.2506074,5.1133935,Tetum,1
+748,Astrid Spinola,extranet,45.456025399999994,9.1257661,Catalan,0
+749,Rhetta Dannell,Programmable,24.310713,110.64085,Hindi,1
+750,Reece Eddins,Adaptive,51.883,4.3577,Korean,1
+751,Shirline Housbey,maximized,-32.4084888,-63.259626299999994,Luxembourgish,0
+752,Luise Dormer,hybrid,44.055921999999995,85.38086,Zulu,1
+753,Neal Dafforne,capacity,-13.945727999999999,-72.1756733,Romanian,1
+754,Ki Bing,concept,24.629264000000003,118.041444,Chinese,1
+755,Heriberto Catchpole,zero tolerance,59.971526299999994,18.6031762,Azeri,1
+756,Sissy Danshin,success,6.6448092999999995,1.7198215000000001,Kazakh,1
+757,Benny Hendrickson,Polarised,40.0058478,-8.2125382,Amharic,0
+758,Erek Anker,empowering,12.3434106,-86.6762176,French,1
+759,Mitchael Dailey,framework,39.7306375,-8.7036302,Belarusian,0
+760,Mick Weavers,zero tolerance,50.960353600000005,14.359674300000002,Kazakh,1
+761,Diarmid Phuprate,modular,-15.183840799999999,-72.90619029999999,Tetum,0
+762,Elianora Fawson,zero defect,52.176031,-6.5899765,Pashto,0
+763,Johnny Siggs,Face to face,22.543096,114.05786499999999,Polish,0
+764,Modesty McQuarrie,empowering,56.867489299999995,60.2882554,Thai,1
+765,Melinda Askwith,project,27.6673175,114.41099209999999,Malagasy,1
+766,Tonya Sherratt,Robust,26.405715,106.25641200000001,Māori,0
+767,Cass Beacroft,paradigm,-6.7697476,106.7293611,Māori,1
+768,Harlen Kardos-Stowe,middleware,-3.0040574,31.927400300000002,Bengali,1
+769,Morey Michelet,zero tolerance,64.8101062,25.987464000000003,Kyrgyz,1
+770,Devon Vardey,matrices,-24.5551012,25.8107681,Arabic,0
+771,Powell Dawes,mission-critical,-5.8002425,-39.734338,Gagauz,0
+772,Anders Milnthorpe,multi-tasking,14.91441,120.89449599999999,Thai,1
+773,Blythe Wyllie,Operative,6.5411018,101.2804075,Tajik,0
+774,Lamont Arney,Adaptive,38.058088,117.230602,Hindi,1
+775,Hakeem Cochet,system engine,-9.7451212,124.60820179999999,Lao,0
+776,Kristian Purcell,alliance,35.950418,101.925248,Lao,0
+777,Arie Crinage,analyzer,50.6429329,13.9944445,Latvian,0
+778,Jocelin Stearn,Extended,4.9211621,6.274773400000001,Lao,1
+779,Elisabetta Greenard,Enhanced,-7.369767200000001,112.51258929999999,Finnish,1
+780,Trudy Baggot,focus group,52.3147542,22.8893801,West Frisian,0
+781,Kiah Swinn,core,25.700731,107.63117700000001,French,1
+782,Lilith Chilles,projection,7.7849087,2.1990762999999998,Lithuanian,0
+783,Doralynn Noseworthy,Self-enabling,25.179835999999998,119.08713,Somali,0
+784,Heda Nutten,moderator,15.502730300000001,120.5129814,Northern Sotho,1
+785,Antonietta Gavrieli,Multi-layered,52.455529299999995,13.339803,Korean,0
+786,Ardenia Whitmore,Exclusive,30.804470000000002,104.177966,Georgian,1
+787,Ayn Kamenar,Devolved,39.74,-104.98,Danish,1
+788,Grenville McGooch,bottom-line,40.211601,46.8237055,Finnish,0
+789,Der Iverson,local area network,16.821123800000002,100.26585159999999,Spanish,1
+790,Eb Harmour,monitoring,-38.97709129999999,-68.0772116,Northern Sotho,1
+791,Rochell Goozee,software,-9.6498487,-35.7089492,Guaraní,1
+792,Arlene Ferrao,Triple-buffered,40.0342727,-7.1068883000000005,Portuguese,0
+793,Gillan Di Gregorio,actuating,39.197212,117.059698,Georgian,0
+794,Cynthy Balcers,Stand-alone,45.9956745,20.0278794,Dari,1
+795,Boycie Beaument,approach,57.427459999999996,15.085329999999999,Ndebele,1
+796,Vivyan Dies,parallelism,15.1614193,100.1087187,Hungarian,1
+797,Ford Dow,full-range,3.3262879,99.1566855,Haitian Creole,1
+798,Garrot Lis,value-added,39.932446999999996,116.430976,Swedish,1
+799,Reginauld Matiewe,24 hour,31.364902,108.249509,Ndebele,0
+800,Mac Kleinsinger,knowledge user,37.62,-77.61,Kannada,1
+801,Damara Keynes,middleware,10.2203274,123.0540501,English,1
+802,Rudolf Eastcourt,Business-focused,17.152278600000002,-89.0800227,Burmese,1
+803,Yevette Yeskov,moderator,13.5699981,-14.5611573,Yiddish,0
+804,Ware Dike,reciprocal,9.3296921,125.93345390000002,Romanian,1
+805,Dasi Broxis,Ameliorated,31.859653,120.55860600000001,Papiamento,0
+806,Faun Joret,Cross-platform,7.9352979999999995,-68.917999,Romanian,0
+807,Gretchen Stanfield,Grass-roots,28.249827000000003,91.767413,Tswana,1
+808,Wernher Liddyard,full-range,16.71169,44.84769,Dutch,0
+809,Orson Snoddin,Streamlined,-22.0853991,-65.5975218,Tok Pisin,1
+810,Rollins Edling,Enhanced,36.39141,116.63226200000001,Indonesian,1
+811,Sibby Burroughes,Multi-tiered,31.138677,120.64515800000001,Catalan,1
+812,Caitrin Luxton,object-oriented,40.88472,20.099439999999998,Amharic,0
+813,Dorthea Vanacci,Programmable,-28.5757953,-70.75710090000001,Danish,0
+814,Umeko Pfaffe,object-oriented,28.753496999999996,105.888827,Bengali,1
+815,Mozelle Greenless,archive,59.233081999999996,163.06753500000002,Malagasy,1
+816,Heather Slowcock,next generation,-27.2290951,27.587737,Dhivehi,0
+817,Tucky Bellson,installation,34.1777698,108.86823329999999,Somali,0
+818,Nickola Evenden,archive,39.021046000000005,117.24015929999999,Persian,1
+819,Mathias Suddards,asynchronous,32.20427,35.13077,Luxembourgish,1
+820,Elston Shiers,asynchronous,61.7644425,23.0729829,Malayalam,1
+821,Steffen Itzhaki,moratorium,41.385858,-8.3854178,Kashmiri,0
+822,Farris Kops,bandwidth-monitored,-25.8520478,25.6065929,Guaraní,0
+823,Aridatha Sexty,mobile,47.278918,6.07097,Norwegian,1
+824,Cinnamon Martinson,client-driven,47.3005,29.1224979,Zulu,1
+825,Danny Couvet,installation,10.2343685,-64.59180500000001,Kyrgyz,1
+826,Arabele Borsnall,Synchronised,10.103645,123.64197109999999,Tetum,0
+827,Wynne Baert,encryption,51.977709399999995,36.9137821,Bosnian,0
+828,Kizzee Talks,interactive,61.76640989999999,22.478172100000002,Aymara,1
+829,Nicoli Harsum,Integrated,57.013064,-6.2823331,Chinese,1
+830,Mufi Bruckenthal,needs-based,-8.0670006,111.907307,Finnish,0
+831,Robinson Girardet,Adaptive,33.2445659,130.4529061,Chinese,1
+832,Nanice Lanahan,zero tolerance,23.551967,115.539275,Kannada,0
+833,Mario Stathers,multi-state,13.45529,43.94704,Nepali,1
+834,Gretel Lewerenz,Open-architected,39.765701,118.412764,French,1
+835,Cord Cosh,Ergonomic,32.084932,34.835226,Latvian,0
+836,Sandro Winspur,model,49.2216972,17.3562648,Papiamento,0
+837,Pavel Brazear,modular,29.574609000000002,120.934385,Tsonga,0
+838,Randolf Rolley,moratorium,0.8348125,124.31993159999999,Dari,0
+839,Rhona Pudney,logistical,18.2505167,103.4910621,Croatian,1
+840,Erwin Pranger,Object-based,45.730664000000004,130.77889209999998,Swahili,1
+841,Gay Melling,groupware,48.776494799999995,17.0214389,Thai,0
+842,Jerrold Loseke,zero tolerance,-6.989065400000001,112.56399340000002,Indonesian,1
+843,De Jiranek,Innovative,55.000707299999995,36.4284209,Dhivehi,0
+844,Robenia Broschek,instruction set,-9.385742,-76.0043731,Portuguese,1
+845,Poul Downer,array,64.9119853,25.5142484,Afrikaans,0
+846,Jae Abbatt,focus group,-3.4964315999999998,102.6934048,Korean,1
+847,Esdras Frances,Front-line,50.6211008,24.4598077,Kashmiri,1
+848,Lexy Wagstaff,product,-8.3200799,114.25093759999999,Malagasy,1
+849,Amberly Morsey,interactive,37.39163129999999,140.3798031,German,0
+850,Carree Clearie,didactic,-54.281149,-36.5087385,Māori,0
+851,Rozanne Arboine,Team-oriented,38.0162314,-8.695676800000001,Estonian,1
+852,Sayre Alner,Exclusive,13.853628500000001,-89.4535357,Tsonga,0
+853,Lynea O'Fallon,logistical,-25.2739709,32.8084496,Czech,0
+854,Judas Alflat,instruction set,-20.495949,57.54973760000001,Nepali,0
+855,Eydie Shillito,Implemented,23.353289999999998,112.339444,Irish Gaelic,1
+856,Nevil Vigars,optimizing,36.0457187,-115.31339080000001,Malayalam,1
+857,Collie Milland,Enhanced,39.693214399999995,-8.2905257,Somali,1
+858,Bibby Inchan,Fully-configurable,43.916823,81.324136,Polish,0
+859,Arvin Lepere,zero administration,14.0644874,101.51560740000001,Yiddish,1
+860,Emmy Provost,Extended,-13.53195,-71.96746259999999,Danish,1
+861,Olga Grevel,Enterprise-wide,28.424415000000003,110.1808,Catalan,0
+862,Anestassia Thorn,array,45.926012799999995,20.0780937,Spanish,1
+863,Debi Prestney,adapter,-6.640965799999999,106.8030892,Gujarati,1
+864,Dione Schwieso,Up-sized,-12.058230499999999,-77.1053673,Spanish,0
+865,Gaston Coryndon,Reduced,28.90499,109.66716399999999,Moldovan,0
+866,Gilberta Saulter,info-mediaries,16.0481202,105.13759080000001,Greek,1
+867,Kev McGuiney,knowledge base,6.551367,-74.78729399999999,Dutch,1
+868,Deerdre Cawse,responsive,37.11671,122.307942,Dzongkha,1
+869,Anissa McAteer,capacity,49.7967977,30.1310853,Arabic,0
+870,Karlie Clash,3rd generation,14.9398,33.234,Georgian,1
+871,Shayla Fardo,bandwidth-monitored,-8.618641499999999,115.1831787,Fijian,1
+872,Brose Markovic,Adaptive,-8.6793,122.3355,Kurdish,1
+873,Gerrie Gallatly,tangible,28.955847,114.53295700000001,Nepali,0
+874,Nesta Sifleet,bifurcated,28.395709999999998,107.75261100000002,Tsonga,0
+875,Eartha Gergher,Future-proofed,7.3137550000000005,38.0895886,Tajik,0
+876,Margot Genney,user-facing,-21.5957703,-46.8877455,Oriya,1
+877,Axel Hayer,algorithm,55.742291200000004,37.5051617,Luxembourgish,1
+878,Idaline Barnson,Multi-lateral,42.223828000000005,123.72603500000001,Dhivehi,0
+879,Angeline Chree,holistic,52.6545685,41.447547899999996,Aymara,1
+880,Roanne Haddow,4th generation,53.54091,15.559629999999999,German,0
+881,Codi Boobyer,Ameliorated,-7.2841,108.2148,Spanish,0
+882,Duane Cleve,client-driven,7.500569099999999,9.606300599999999,Hungarian,1
+883,Jude Hounsom,Fully-configurable,15.584734699999998,-86.3503495,Ndebele,1
+884,Derry Govan,incremental,41.240449100000006,44.823608899999996,Tok Pisin,0
+885,Maggy Bourgourd,success,49.8073475,18.6107307,Spanish,1
+886,Florenza Bronger,orchestration,-3.3072032,-39.3621196,Armenian,0
+887,Clerkclaude Mealiffe,Secured,3.1523103999999997,101.7178316,Swati,0
+888,Arlin Ambrogioni,internet solution,15.460154300000001,101.19491909999999,Mongolian,0
+889,Karry Decort,executive,2.9479721000000003,-68.04775090000001,Hebrew,1
+890,Felisha Tomkinson,productivity,32.358901,35.246147,Ndebele,0
+891,Jania Cuddehy,regional,52.936915799999994,-66.9238331,Afrikaans,0
+892,Jsandye Grahamslaw,value-added,40.218785499999996,-8.053752900000001,Azeri,1
+893,Parker Sparshott,leverage,-18.4476442,-50.4551598,Lithuanian,0
+894,Frederico Roskelley,Intuitive,23.1261788,113.2689358,Tajik,0
+895,Englebert Lage,implementation,51.7954009,30.2688788,Estonian,1
+896,Ricard Ashburner,moderator,39.06,-94.61,Sotho,1
+897,Kaylil Coalburn,4th generation,55.794213799999994,37.48279960000001,Spanish,0
+898,Kinsley Forsdyke,knowledge user,53.655784499999996,41.687384200000004,Tamil,0
+899,Brnaba Anderer,Fully-configurable,40.63909279999999,-8.5992965,Estonian,1
+900,Esteban Coan,access,22.814304,115.95519099999999,Estonian,1
+901,Rochette Kinane,budgetary management,6.2792612000000005,-57.5391225,Luxembourgish,1
+902,Wendall Bellard,Proactive,46.2201972,-64.5346866,Gujarati,1
+903,Ashley Roset,Re-contextualized,40.611078000000006,-8.537538900000001,Croatian,1
+904,Nixie Aslum,alliance,25.313443,117.279653,Malayalam,0
+905,Oriana Issacson,workforce,46.811720799999996,33.4901963,Oriya,0
+906,Mufi Bannon,solution,-15.8958471,-52.251642600000004,Afrikaans,0
+907,Genna Kays,dedicated,17.193029,21.58589,Hiri Motu,0
+908,Trent Poulglais,human-resource,-7.1715356,106.7494367,Danish,0
+909,Dorene Lidgate,Progressive,-7.6295345,108.1665855,Georgian,0
+910,Angela Ramalhete,application,33.425934000000005,66.5344159,Amharic,0
+911,Gideon Peverell,Secured,56.174729500000005,43.5299495,Persian,0
+912,Caryn Huggins,eco-centric,6.8080933,125.19345120000001,Catalan,0
+913,Raven Mattis,Right-sized,27.6486636,84.41726659999999,Tsonga,1
+914,Charlie Spraggon,access,61.6787713,64.4755218,Catalan,1
+915,Wallache Stanyan,incremental,31.77,-106.43,Catalan,1
+916,Birk Fedder,Synergized,30.200029999999998,115.038835,Armenian,0
+917,Mabel Sayce,Multi-layered,-30.7190522,-57.3298733,Yiddish,0
+918,Lita MacAllen,complexity,15.3657777,-90.4792939,Telugu,0
+919,Katalin Riccelli,non-volatile,-21.535408800000003,-49.8569266,Icelandic,0
+920,Gradeigh Gaukrodge,initiative,15.211043799999999,51.2500919,Bislama,1
+921,Noelani Phizaclea,solution,49.63768889999999,24.2948622,Montenegrin,0
+922,Vinita Hum,executive,35.202503,102.521807,New Zealand Sign Language,0
+923,Sandy Aspell,Open-source,-26.552431199999997,29.0750837,Hindi,1
+924,Ike Peddel,Diverse,-6.956995399999999,112.54089909999999,Greek,1
+925,Heriberto Hawe,zero tolerance,-30.514844500000002,-53.48323829999999,Gagauz,1
+926,Delora Passfield,artificial intelligence,15.878509900000001,120.3186429,English,0
+927,Chris Duddell,Automated,43.705817700000004,2.1365748,Sotho,1
+928,Fina Woollaston,Re-engineered,-20.9829904,-40.999059700000004,Amharic,1
+929,Duky Von Welldun,open architecture,45.470831,-73.77477420000001,Luxembourgish,0
+930,Jeffry Mattityahou,24/7,54.589538,85.99177850000001,Telugu,1
+931,Ginelle Lates,Streamlined,-18.220079100000003,32.7463686,Papiamento,0
+932,Penrod Woodruffe,Ameliorated,16.016633900000002,121.0368351,Pashto,0
+933,Rahel Conring,demand-driven,40.076762,113.300129,Tetum,1
+934,Jere Claibourn,transitional,-8.1234892,111.9597014,Pashto,0
+935,Drusi Enderwick,Upgradable,53.7002,102.7117,English,0
+936,Herrick Lardnar,solution-oriented,41.04671,-8.521289999999999,Tajik,0
+937,Agna Bettison,flexibility,41.7662205,-8.5065208,French,0
+938,Sadie Vautre,full-range,40.9743604,-8.455456100000001,Pashto,1
+939,Garvey Lucius,Operative,-23.527748000000003,-46.3266408,Polish,1
+940,Ailis Lghan,projection,26.0411298,68.9203839,Hiri Motu,1
+941,Leonhard Crayker,Reverse-engineered,2.7991083999999997,44.0793911,Arabic,0
+942,Fredia Baudin,bandwidth-monitored,-8.4388642,-77.3205965,Tsonga,1
+943,Priscella Spennock,multimedia,-6.719106200000001,108.5329338,Romanian,1
+944,Miles Shapland,Advanced,49.8417042,5.1214901,Marathi,0
+945,Lula Scragg,Versatile,-8.482498399999999,118.95868670000002,Māori,1
+946,Salomone Sandey,dynamic,39.9727653,116.4284919,Bosnian,0
+947,Zelma Broome,fresh-thinking,50.8677076,19.2061348,Albanian,0
+948,Aveline Geany,task-force,31.576940500000003,72.4156898,Haitian Creole,1
+949,Teirtza Butterfill,context-sensitive,13.9242836,121.50358229999999,Dhivehi,0
+950,Masha Westrope,function,-16.7111944,-151.03403590000002,Gujarati,0
+951,Elke Caras,algorithm,16.9938163,104.1391137,Dhivehi,1
+952,Julita Upstone,firmware,55.27084059999999,66.4858701,Kannada,0
+953,Benn Wife,mission-critical,23.321441,113.558655,Albanian,1
+954,Saloma Binder,24 hour,-22.6091889,-47.407366499999995,Irish Gaelic,0
+955,Sherman Antoney,attitude,-3.3419323,-60.8609358,Tajik,0
+956,Jocelyne Brokenbrow,focus group,18.354614899999998,-65.94525279999999,Persian,1
+957,Eda Faunch,project,55.3767331,13.1451742,Albanian,0
+958,Sande Gerhardt,capacity,40.788434,114.89418899999998,Khmer,1
+959,Fanya Lutwidge,Balanced,50.35349,17.864349899999997,Lao,0
+960,Kirbee Beddie,Customizable,20.4112324,104.2250605,Irish Gaelic,1
+961,Krishnah Haysey,motivating,53.085968099999995,20.0476701,Filipino,0
+962,La verne Snoxell,budgetary management,-9.849290400000001,119.7371425,Nepali,0
+963,Rikki Breckin,Graphical User Interface,37.948461,77.248479,Tajik,0
+964,Dedie Rumens,client-server,-31.439348100000004,-64.1266198,Moldovan,1
+965,Barbette Tivers,Configurable,32.959602000000004,110.998005,Czech,0
+966,Rafaellle McLagain,Synchronised,55.7452926,24.3713362,Malay,0
+967,Celesta Clingan,hardware,59.7458284,18.6851872,Tetum,1
+968,Rani D'Errico,Robust,53.09173810000001,-8.221594099999999,Nepali,1
+969,Merlina Maber,Multi-lateral,12.2732631,-16.1669156,Telugu,1
+970,Merridie Hachard,mission-critical,14.4050979,100.464947,Gujarati,1
+971,Aristotle Stichel,actuating,57.903389000000004,53.715125,Afrikaans,0
+972,Alvin Lanney,Multi-layered,11.1572834,166.887052,Danish,1
+973,Barnabas Mowson,middleware,10.6993883,122.50244280000001,Kyrgyz,0
+974,Auberta Rebbeck,core,-36.2958562,-57.68559789999999,Telugu,0
+975,Francis Masdin,knowledge base,38.7496144,140.30121719999997,Sotho,0
+976,Oby Midden,dedicated,45.78,-108.5,Haitian Creole,1
+977,Binnie Hein,adapter,48.7663087,2.4119232000000004,Lao,0
+978,Chrissy Eslie,mission-critical,32.236470000000004,35.38711,Kannada,1
+979,Larry Lippingwell,6th generation,48.9361342,24.1594075,Catalan,1
+980,Donella Murkin,24 hour,46.614358,15.225547199999998,Gujarati,0
+981,Melodee Gilyatt,Organic,13.5616918,-15.8304975,Kurdish,1
+982,Melessa Fraczkiewicz,contingency,51.363916499999995,46.0293715,Romanian,0
+983,Finley Gosford,asynchronous,13.1191133,-86.9949372,Irish Gaelic,1
+984,Olympia Canada,interface,39.138304,117.10008700000002,Greek,1
+985,Orlando Beavers,core,13.895436499999999,123.41238770000001,Bosnian,0
+986,Pietrek Clere,adapter,-33.5201418,-56.9042201,Macedonian,0
+987,Dannel Parlatt,neural-net,40.246281700000004,-8.5659855,Somali,1
+988,Elyn Balf,instruction set,41.364568,21.253752,German,0
+989,Wilmer Wartonby,even-keeled,22.513701,113.398577,Haitian Creole,1
+990,Carce Kinglesyd,analyzing,41.805137,123.4699481,Lithuanian,0
+991,Raquela Begin,Cross-group,38.1535213,22.3143775,Malay,1
+992,Erastus Carlos,access,40.8193554,22.355898899999996,Tamil,0
+993,Randy Anthony,Profound,14.139973499999998,120.96205729999998,Hindi,1
+994,Olenolin Kaveney,didactic,53.286637199999994,-6.2508196,Danish,1
+995,Mychal Gerish,intangible,9.253443800000001,-70.24976159999999,Italian,1
+996,Nanon Feldberg,Reduced,57.742869799999994,12.941486099999999,Telugu,0
+997,Shalom Brittlebank,attitude-oriented,6.8793892,-72.189,Moldovan,1
+998,Minni Galvan,approach,-19.7775397,29.362781400000003,Croatian,0
+999,Moyna Hardern,static,26.731742999999998,115.622147,Afrikaans,0
+1000,Aubrette Facher,modular,19.2818854,-98.4410429,Georgian,1
+1001,Roselia O'Cullinane,needs-based,7.28361,125.84222,Marathi,0
+1002,Emili Row,open system,48.977664000000004,4.3569639,Korean,1
+1003,Dare Chater,leading edge,32.236470000000004,35.38711,New Zealand Sign Language,0
+1004,Aigneis Antoniades,systemic,23.365555999999998,116.70345,Dutch,0
+1005,Montgomery Ambrose,paradigm,28.369398999999998,116.546998,Indonesian,0
+1006,Wilmette Brend,Reactive,31.3052222,30.2992358,Swati,0
+1007,Dorey Elliot,productivity,64.1457767,28.268998999999997,Gujarati,0
+1008,Callie Cheyney,next generation,41.6559343,-8.7598916,Kyrgyz,1
+1009,Noreen Butler,Mandatory,41.83454329999999,-8.5504434,Bulgarian,1
+1010,Janine Rumbold,Down-sized,14.446362699999998,-87.2655636,Finnish,1
+1011,Dimitri Carriage,Expanded,-4.5699815,-45.133573999999996,Thai,1
+1012,Clemence Brickwood,concept,40.155674299999994,44.4394002,Hungarian,1
+1013,Georgine Muschette,Customer-focused,11.406883,125.550288,Tsonga,0
+1014,Barbette Lomasney,Centralized,-9.6218,124.4923,Haitian Creole,0
+1015,Morgun Omrod,Progressive,13.8135951,100.42279920000001,Croatian,0
+1016,Zarah Voysey,analyzing,46.524673,83.628303,Dzongkha,0
+1017,Mechelle Peaddie,array,-38.9615131,-68.103824,Punjabi,0
+1018,Schuyler Lisciardelli,24 hour,-8.3004413,115.0881146,Filipino,1
+1019,Agatha Berrisford,encoding,59.9494208,10.9243808,Thai,1
+1020,Sibbie Summerill,bifurcated,13.4932664,100.9637456,Somali,0
+1021,Remington Cockrell,internet solution,13.5920158,122.320801,Spanish,1
+1022,Gerek Woodlands,projection,-8.6873795,115.1933778,Oriya,1
+1023,Tani Duffer,Polarised,30.917795,121.474042,Dhivehi,1
+1024,Cody Horstead,Synchronised,-3.411598,114.8452,Albanian,0
+1025,Angelina Busain,matrix,49.4390256,16.6408689,Hindi,0
+1026,Sharla Simmings,Vision-oriented,47.5,96.2,Indonesian,0
+1027,Roana Warry,Intuitive,4.980188200000001,23.941751,Azeri,0
+1028,Karyl Cabera,Front-line,-7.4250762,108.2822389,Kannada,1
+1029,Astrix Boggas,database,9.8563254,-66.3735841,Georgian,1
+1030,Cloris Degan,Organic,33.74859,105.90301799999999,Norwegian,0
+1031,Claudelle Leidl,protocol,51.252485,32.4227839,Arabic,0
+1032,Lazar Robins,Multi-tiered,-8.0397618,111.9000827,Gagauz,0
+1033,Helsa Glanders,algorithm,30.271086999999998,120.166448,Indonesian,0
+1034,Alli Gemnett,definition,0.9931336,9.5770844,Fijian,1
+1035,Dareen Shepland,methodical,38.9003669,-77.0351137,Indonesian,0
+1036,Winnifred Regus,Re-engineered,39.90246,117.48536599999998,Amharic,0
+1037,Faun Hilliam,attitude-oriented,30.3312397,120.15340390000001,Tajik,1
+1038,Ysabel Vaney,national,52.804249,6.186692,Swati,0
+1039,Alisa Dunsire,website,15.2931866,-90.1147496,Kazakh,0
+1040,Brendis Joy,clear-thinking,26.308284000000004,119.677154,Irish Gaelic,1
+1041,Roderich Darree,installation,-7.55,111.11666699999999,Quechua,0
+1042,Gaspar Licciardo,approach,47.517356400000004,42.1602043,Georgian,1
+1043,Durand Ravenhill,hub,-5.1119324,-39.6043575,New Zealand Sign Language,0
+1044,Si Brickwood,mission-critical,49.3304143,17.2726367,New Zealand Sign Language,0
+1045,Calley Slocumb,help-desk,-8.8924352,33.434849199999995,Bislama,1
+1046,Hedvige Libero,Operative,39.704676,122.955872,Azeri,1
+1047,Mahmoud Hise,background,37.38198,117.970699,Nepali,1
+1048,Julian Henrych,Configurable,43.9705397,19.5649108,New Zealand Sign Language,0
+1049,Isabelle Rentenbeck,fresh-thinking,51.591190000000005,-1.407848,Portuguese,1
+1050,Ruprecht Thake,transitional,50.019808399999995,33.941672600000004,Māori,0
+1051,Cookie Cocker,Secured,62.331624399999995,27.746157699999998,Japanese,0
+1052,Weston Bellefonte,User-centric,-20.6121259,-51.8287077,Swedish,0
+1053,Curr Trimble,Decentralized,-21.556052100000002,-45.4368421,Kashmiri,1
+1054,Herbert Churchley,solution,5.9840985,116.0761121,Tetum,1
+1055,Geoff Benton,neutral,6.9234906,5.7773898,Bengali,1
+1056,Dael Ellingsworth,background,40.666059000000004,109.873117,Kazakh,0
+1057,Jeni Rayman,asynchronous,-8.161103599999999,113.6770012,Danish,1
+1058,Johan Doswell,bandwidth-monitored,28.590336999999998,105.69747199999999,Thai,1
+1059,Cleve Harmon,approach,40.934156,123.2064649,Bulgarian,0
+1060,Hyacinthe Atwell,coherent,10.6713871,123.05550330000001,Persian,1
+1061,Jimmie Scutt,tangible,-7.3475648,108.15769080000001,Malagasy,1
+1062,Chase Hardeman,logistical,47.2038268,30.916347499999997,Fijian,1
+1063,Elly Uccelli,Synchronised,29.696195,106.79542,Dzongkha,1
+1064,Perice Vint,Multi-lateral,43.677767700000004,7.1492431,Burmese,1
+1065,Norbert Bertomeu,zero tolerance,58.6680061,50.0352255,Haitian Creole,0
+1066,Tabor Huetson,multi-tasking,-14.476526300000002,-71.3957971,Tswana,1
+1067,Tiler McRuvie,alliance,-5.098088400000001,-80.1657463,Thai,1
+1068,Austin Hemerijk,mobile,42.5420213,-91.1118075,Hebrew,1
+1069,Cody Fellibrand,directional,40.5740471,-8.6441655,Danish,1
+1070,Yurik Arnopp,scalable,37.170260299999995,49.4017092,Hindi,1
+1071,Joelie Campes,Automated,35.3113485,25.313023,Hindi,1
+1072,Gottfried McNish,Digitized,34.739026700000004,118.40657579999998,New Zealand Sign Language,1
+1073,Chilton Louch,Multi-layered,52.644,25.2027,Albanian,1
+1074,Giraldo Janout,Digitized,21.476108399999998,106.12575,Bislama,1
+1075,Mitzi Franca,Digitized,-6.207877900000001,106.83332490000001,Swahili,1
+1076,Aurora Speller,infrastructure,-10.0396,120.75399999999999,Yiddish,1
+1077,Birk Ritchings,hierarchy,-20.4894632,-47.7834888,Somali,0
+1078,Roarke Wadly,Enhanced,63.3772787,10.3070483,French,0
+1079,Kasey Blue,Quality-focused,-3.2342185000000003,116.234153,Thai,1
+1080,Mozes Caisley,Ameliorated,59.8664826,48.0119891,Polish,0
+1081,Evaleen Trorey,background,39.068034999999995,20.6971047,Persian,1
+1082,Ezequiel Garstan,Digitized,33.38278,66.27233000000001,Bislama,1
+1083,Chrissy McCerery,tertiary,57.8857887,12.3260421,Dzongkha,1
+1084,Marven Vanyatin,scalable,50.300542,2.801689,Northern Sotho,0
+1085,Lydon Ferrieroi,24/7,-7.9780918000000005,112.80072460000001,Hungarian,0
+1086,Tabbitha Goodfield,3rd generation,36.706962,119.161748,Fijian,1
+1087,Rebeka Semkins,Robust,43.8699654,21.0688871,Armenian,1
+1088,Winne Stringer,next generation,23.561556,101.273161,Marathi,1
+1089,Berna Kirkby,Distributed,10.120681900000001,122.9809409,Northern Sotho,1
+1090,Aleta Archbould,reciprocal,23.14855,113.249429,Azeri,0
+1091,Albert Temblett,Future-proofed,36.545015,104.138586,Tajik,0
+1092,Ware Jacobbe,impactful,26.571673999999998,117.669428,Danish,1
+1093,Matilde Dowley,Monitored,44.1675867,2.0308233,Sotho,0
+1094,Alfy Fereday,well-modulated,14.443228699999999,108.9918254,Romanian,0
+1095,Emmerich Gozzett,hub,41.3461777,-7.982286,Tok Pisin,1
+1096,Kissee Dunstone,24 hour,51.2235476,37.877553799999994,German,1
+1097,Bibbye Blann,solution,52.663089500000005,38.4290322,Chinese,0
+1098,Claus Rykert,full-range,10.7164071,123.37862,Swati,0
+1099,Tallou Quinion,context-sensitive,16.5196395,121.1798821,West Frisian,1
+1100,Lucio Peele,standardization,48.9957904,29.4397153,Czech,1
+1101,Milissent Whitecross,real-time,39.863008,124.15270509999999,Bosnian,0
+1102,Martie Gowdridge,Triple-buffered,45.8788922,20.5527173,Korean,1
+1103,Lisa Sives,Diverse,53.9766455,58.442850199999995,Khmer,0
+1104,Woodman Defond,scalable,50.9645521,17.2614777,Korean,1
+1105,Athena Dawnay,solution,29.2813,117.22473000000001,Norwegian,1
+1106,Tobias Artrick,local,58.4633132,36.4116086,Malagasy,0
+1107,Hailee Ellingsworth,Enterprise-wide,-6.7099134000000005,111.1533456,Marathi,1
+1108,Sisely Cappleman,Cross-platform,12.3640592,13.8277397,Portuguese,0
+1109,Dino Handsheart,well-modulated,27.622768,113.854556,Afrikaans,1
+1110,Danit Canton,artificial intelligence,39.706618,21.6288728,Khmer,1
+1111,Rriocard MacInherney,Fully-configurable,13.5616918,-15.8304975,Azeri,0
+1112,Christian Paddy,actuating,41.088242799999996,-7.5686677,Tok Pisin,0
+1113,Bradley Robel,Configurable,-5.8248093,-46.1594921,Guaraní,0
+1114,Brandi Claye,circuit,32.687733,112.087455,Tok Pisin,0
+1115,Jermaine Colthard,circuit,-7.201747599999999,108.1562084,New Zealand Sign Language,0
+1116,Layla Kalkofen,database,58.991981,23.2416861,Dhivehi,1
+1117,Karola Demcak,matrix,27.951451000000002,111.804777,Bengali,0
+1118,Ashlin Quin,Programmable,8.2414293,124.24695729999999,New Zealand Sign Language,0
+1119,Bobbie Fairchild,Assimilated,45.7608012,15.884325199999997,Armenian,1
+1120,Grayce Poluzzi,ability,-14.341470000000001,-71.46311,Maltese,0
+1121,Marcie Donoher,Decentralized,49.8461722,29.0542223,Hiri Motu,1
+1122,Arlene De Malchar,Team-oriented,13.179527800000002,32.752013899999994,Korean,1
+1123,Winnifred Renad,static,-10.28917,123.70036999999999,Georgian,1
+1124,Kellina O' Mara,capability,43.000736100000005,23.341193,Mongolian,0
+1125,Nester Elwood,matrices,53.10014,-111.76843999999998,Bislama,1
+1126,Glyn Cayzer,systematic,0.33019240000000005,6.733343,German,1
+1127,Nariko McCray,Multi-channelled,44.0227778,42.7491668,German,1
+1128,Ashly Maren,bandwidth-monitored,41.091153799999994,44.6590356,Spanish,1
+1129,Dian Bradd,Advanced,43.7633364,26.6950125,Assamese,0
+1130,Pepi Stoffer,explicit,-6.598,106.2248,Greek,1
+1131,Cairistiona Dane,neural-net,5.7316058,19.086931600000003,Tajik,0
+1132,Janeczka McKay,executive,-20.103416,57.5391225,Malayalam,0
+1133,Auberta Shackesby,mobile,41.6247751,0.5588787,Kashmiri,1
+1134,Lee Rooney,Customizable,33.45,-111.97,Swahili,1
+1135,Frank Quince,hierarchy,-7.9499222000000005,110.53048419999999,Afrikaans,1
+1136,Prent Leaves,installation,31.213534000000003,121.445448,Romanian,1
+1137,Naomi Packham,flexibility,55.6735436,12.573649099999999,Montenegrin,0
+1138,Julieta Garrit,next generation,8.1526675,39.3517483,Punjabi,1
+1139,Lorine Weekes,fresh-thinking,54.510784400000006,53.444012199999996,Portuguese,0
+1140,Lynna Hurdwell,interface,64.8101062,25.987464000000003,Georgian,1
+1141,Fanni Garett,Self-enabling,49.26811,-100.99669,English,0
+1142,Emelia Glaysher,Implemented,39.9225394,65.9214676,Hiri Motu,1
+1143,Ashlen Yardley,artificial intelligence,-7.324188,110.509841,Hiri Motu,0
+1144,Ainslee MacNeill,Secured,-7.6162570999999994,109.5285442,Persian,1
+1145,Clemmie Badland,Synergized,36.7310107,136.6975386,Thai,0
+1146,Hoebart Cron,alliance,11.366184599999999,6.3226072,Guaraní,0
+1147,Ricky MacFadin,optimal,38.2,-85.7,West Frisian,1
+1148,Opaline Hernik,Programmable,-5.040264700000001,103.8390162,Czech,1
+1149,Hurleigh Bodesson,bi-directional,48.008098100000005,6.7166698,Guaraní,0
+1150,Charmian Neachell,moderator,29.689846999999997,121.28258999999998,Malayalam,0
+1151,Betteanne Gludor,Ameliorated,33.072627600000004,131.8737341,Arabic,1
+1152,Kermit Evamy,Universal,12.6679167,123.9881642,Somali,0
+1153,Fraser Sayward,Virtual,-20.4967315,57.468382999999996,Malay,1
+1154,Rosina Weaver,cohesive,10.085021300000001,-67.91957409999999,Norwegian,1
+1155,Ashil Olerenshaw,bifurcated,-2.6778303,118.887477,Mongolian,0
+1156,Kayle Bownes,Cross-platform,29.254859999999997,111.62647199999999,Dzongkha,0
+1157,Benyamin Strooband,Progressive,-8.3743886,113.63831869999999,Estonian,1
+1158,Loni Woolmer,reciprocal,13.611988199999999,99.61186670000001,Dhivehi,1
+1159,Elsbeth Warboy,forecast,50.6906104,18.5510673,Hiri Motu,1
+1160,Ford Pre,customer loyalty,63.4107694,10.399645199999998,Spanish,0
+1161,Ceil Rentalll,zero tolerance,-16.5039502,-68.219452,Khmer,0
+1162,Lane Idwal Evans,Object-based,40.2608574,23.2215193,Nepali,0
+1163,Ewart Webby,radical,25.038296,102.664376,Assamese,0
+1164,Aida Coldicott,forecast,-40.7632504,-71.638725,Punjabi,1
+1165,Chanda Rillett,user-facing,31.838890000000003,94.43722,Ndebele,0
+1166,Rube Minchindon,workforce,-20.592356600000002,-45.4874873,Afrikaans,1
+1167,Babara Atthow,regional,51.88333,116.25,Albanian,1
+1168,Clo Babcock,optimal,34.363184000000004,107.237743,Guaraní,0
+1169,Roda Gittis,implementation,42.2064232,42.3448676,Arabic,1
+1170,Nelli Edgerly,Right-sized,36.7195014,-4.423996499999999,Arabic,0
+1171,Emlyn Geikie,attitude-oriented,14.571530300000001,121.0235132,Ndebele,1
+1172,Corella Sproul,regional,30.0435239,-94.2743628,Dzongkha,1
+1173,Mycah Preddle,throughput,52.6806269,20.662048499999997,Catalan,0
+1174,Zorana Soitoux,access,9.8499058,39.7626791,Nepali,0
+1175,Nicky Ivkovic,non-volatile,12.2153659,-85.1660825,Swati,0
+1176,Cecily Swoffer,multimedia,0.23430050000000002,-78.2610672,Dzongkha,0
+1177,Cam Kowal,disintermediate,11.0841596,106.7883416,Hungarian,1
+1178,Morganica Fishbourne,knowledge user,22.270978,113.576677,Punjabi,0
+1179,Trstram Kirvin,interactive,14.1864516,-16.6586052,Czech,1
+1180,Bard Scutcheon,3rd generation,30.108216,104.677091,Papiamento,0
+1181,Adore Doughton,Virtual,50.0625015,-110.6821866,Quechua,0
+1182,Lenna Ayshford,Integrated,18.5086907,-69.8497207,Georgian,0
+1183,Leonore Iorio,Persevering,28.679282,121.435569,Malagasy,0
+1184,Ema Huygen,data-warehouse,-1.7833330000000003,119.46666699999999,Haitian Creole,1
+1185,Claudetta Grzegorzewicz,multi-state,54.418523300000004,32.42424260000001,Polish,0
+1186,Mureil Fellona,Monitored,9.584201199999999,-5.1953554,Lithuanian,0
+1187,Thorin Scaice,tangible,-20.649332100000002,26.6405956,Persian,1
+1188,Sonya Laite,modular,27.894503999999998,102.264449,Italian,1
+1189,Nerta Pietruszka,encompassing,59.7050314,30.451101,Maltese,1
+1190,Culver Storm,User-centric,-11.853207300000001,-75.508016,Croatian,0
+1191,Robbi Swalwell,foreground,29.541793,110.364953,Afrikaans,1
+1192,Mabelle Dow,Networked,21.860756,112.69377779999999,Bislama,0
+1193,Kristi Slorach,Multi-channelled,5.9211529999999994,125.633439,Malay,1
+1194,Eduard Styant,Pre-emptive,11.5820122,122.755829,Italian,0
+1195,Kristine Killeen,zero defect,-10.7964,122.9437,Guaraní,0
+1196,Brien Benaine,asymmetric,18.109686800000002,-95.8803869,Pashto,1
+1197,Danella Macci,empowering,6.0375069,102.34066059999999,Lithuanian,1
+1198,Amanda Caswill,Seamless,49.911732,20.8725617,Bislama,1
+1199,Nanice Grayling,standardization,50.07793970000001,36.7897915,French,0
+1200,Lauritz Crotty,grid-enabled,41.448677200000006,-8.4460594,Afrikaans,1
+1201,Morty Conrad,Synergistic,61.3611476,15.905574599999998,Georgian,1
+1202,Kattie Alpe,well-modulated,34.8383901,137.0770574,Kurdish,1
+1203,Ansell Rockliffe,content-based,22.483182,113.916509,Bengali,1
+1204,Trixie Jedrachowicz,Graphic Interface,50.5803842,30.010573699999995,Dhivehi,1
+1205,Violet Daintith,hub,29.8483192,31.336852899999997,Indonesian,1
+1206,Wayland Vallack,Operative,26.8310493,68.1194872,Norwegian,1
+1207,Dolly Petkovic,directional,39.073032899999994,141.71382419999998,Irish Gaelic,0
+1208,Verile Mariot,encoding,51.278135600000006,17.989059100000002,Indonesian,1
+1209,Carol Ausello,methodical,44.0179842,1.3585473999999997,Croatian,1
+1210,Neils De Paepe,Versatile,-6.8903,113.0852,Punjabi,0
+1211,Waylon Stanislaw,didactic,45.68785820000001,18.404189399999996,Bislama,0
+1212,Risa Haggerston,Networked,37.9885749,23.7965135,Maltese,0
+1213,Jacqueline Janosevic,Seamless,54.2569032,26.0150745,Thai,1
+1214,Julita Pratchett,full-range,-7.7823871,110.37485500000001,Spanish,0
+1215,Elset Rait,reciprocal,3.3663182999999997,-59.79777610000001,Tetum,0
+1216,Towny De Caville,Upgradable,34.098357899999996,-4.550838099999999,Irish Gaelic,0
+1217,Dillon Harflete,task-force,-23.1036632,-46.7285093,Afrikaans,1
+1218,Emerson Gregolotti,Persistent,39.6003316,20.3077691,Danish,1
+1219,Bathsheba Shipperbottom,3rd generation,22.9702067,-82.3858672,Fijian,0
+1220,Violante Shemelt,internet solution,53.832933700000005,23.6524854,Guaraní,1
+1221,Layne Gimblett,systemic,62.20907,-6.75247,Catalan,1
+1222,Ring Goves,scalable,13.815188699999998,121.43630800000001,Tajik,1
+1223,Christiano Behr,contingency,45.26025,38.1335101,Japanese,0
+1224,Cindie Pettipher,leverage,7.9122744,98.3459726,Hindi,0
+1225,Otis Jordeson,Intuitive,35.74716,105.42118,Finnish,0
+1226,Sean Cannon,transitional,39.197212,117.059698,Nepali,1
+1227,Kerr Lund,Expanded,14.437059,120.989883,Japanese,1
+1228,Valdemar Edlyn,Intuitive,49.1141224,16.1902227,Khmer,1
+1229,Zacherie Codi,Upgradable,24.541563,104.96491200000001,Dhivehi,0
+1230,Paul Serrurier,incremental,47.3842312,8.5324101,Bulgarian,1
+1231,Jody Kimmel,framework,27.519548999999998,114.073416,Hiri Motu,1
+1232,Ode Rean,alliance,19.380393100000003,-99.14769079999999,Luxembourgish,0
+1233,Sergeant Soot,scalable,32.675098,-17.028154,Zulu,1
+1234,Ross Barnby,Stand-alone,63.537266,23.6993197,Polish,0
+1235,Nickie Costello,migration,32.2048631,49.4453295,Tswana,1
+1236,Berk Dupoy,secondary,31.793861,117.309522,Bosnian,1
+1237,Zorah Ausiello,frame,31.4840951,73.70082740000001,Luxembourgish,1
+1238,Lotty Malkie,Organic,-2.9062039,114.6905436,Tamil,0
+1239,Ag Stocky,client-server,40.5811666,50.0415363,Papiamento,1
+1240,Alida Capstaff,transitional,33.1401715,119.78892479999999,Dhivehi,1
+1241,Dorita Clutram,cohesive,15.4964006,108.26147749999998,Bengali,1
+1242,Tedmund Sigfrid,Pre-emptive,-7.7533886,109.89758529999999,Fijian,0
+1243,Eda Sackur,asymmetric,33.85,44.233333,Swedish,1
+1244,Rogers Murty,intranet,22.9353419,113.65876170000001,Malagasy,0
+1245,Yorgos Manwaring,global,7.138166,7.669732300000001,Latvian,0
+1246,Mohandis Spurryer,Phased,34.771214,135.606399,Kazakh,0
+1247,Fawnia Barsby,Optional,56.1029081,42.3369006,Tetum,1
+1248,Fey Sutheran,impactful,36.591213,109.49310700000001,German,1
+1249,Enrichetta Koppke,Networked,32.749589799999995,-117.10461979999998,Hindi,1
+1250,Nani Mynard,Organic,-28.5757953,-70.75710090000001,Kurdish,0
+1251,Kim O'Moylane,upward-trending,39.00415039999999,-77.0391754,Swati,1
+1252,Roi Jaume,hierarchy,55.813247,37.478747,Dari,1
+1253,Latashia Terrell,solution-oriented,49.4418055,11.1234198,Arabic,0
+1254,Jessica Yarn,Implemented,-7.267752000000001,112.745253,Burmese,1
+1255,Jamie Trowsdall,application,-19.9673078,-44.2011904,Sotho,0
+1256,Dari Prise,motivating,-8.1141,111.7762,Hebrew,1
+1257,Shelagh Yanyushkin,open architecture,-8.1475732,112.71819199999999,Tetum,0
+1258,Cahra Swale,flexibility,-10.9232,122.8283,Maltese,0
+1259,Elfreda Kitlee,superstructure,36.1125,129.35222,Kyrgyz,1
+1260,Hazel Dudeney,regional,49.3457516,16.4764384,Lithuanian,1
+1261,Filmore Steeden,Virtual,42.075123,21.052354100000002,Indonesian,1
+1262,Trstram Shiell,optimal,25.6765837,-100.26023640000001,Spanish,1
+1263,Jeremie Lewsie,ability,34.348659999999995,106.00991499999999,Macedonian,0
+1264,Obadias Harnett,Compatible,63.2706498,18.6972941,Thai,0
+1265,Ania Gonnelly,Distributed,-6.151201400000001,-79.7147468,West Frisian,0
+1266,Bret Cronshaw,Switchable,43.416900299999995,28.2969913,Bulgarian,0
+1267,Chicky Limprecht,bifurcated,-7.359019900000001,107.03622720000001,Kazakh,0
+1268,Hannis Crudge,heuristic,28.092044800000004,57.23105210000001,Marathi,0
+1269,Horatia Garter,Ameliorated,32.5734842,74.0420093,Malagasy,0
+1270,Maryann Fury,intermediate,13.60864,100.61115600000001,Dutch,1
+1271,Lu Vondra,analyzing,55.6760366,12.5657728,Albanian,0
+1272,Kelsey Mozzini,Innovative,50.5803842,30.010573699999995,Guaraní,1
+1273,Gun Latchford,synergy,14.262652,121.498915,Lao,0
+1274,Kain Gosnay,context-sensitive,20.1564917,105.8736936,English,0
+1275,Gerianne Bussell,adapter,49.879152000000005,15.931610899999999,Luxembourgish,1
+1276,Paulie Trewman,Exclusive,39.109563,117.223371,Macedonian,0
+1277,Ramona Birrell,directional,49.291889000000005,142.878669,Icelandic,0
+1278,Naomi Probat,contextually-based,11.9210864,-86.12301529999999,Amharic,0
+1279,Eveleen Dore,middleware,63.8105554,20.3121225,Sotho,1
+1280,Glenine Edmonstone,Distributed,40.2074194,22.438717800000003,Polish,0
+1281,Salomone Petriello,even-keeled,51.700259,30.662543300000003,Albanian,1
+1282,Mikaela Tripony,attitude,59.291606200000004,18.2637328,Italian,1
+1283,Georgie Ponnsett,Diverse,34.682497,103.35901899999999,Macedonian,0
+1284,Garnet Ipsley,impactful,48.1772789,6.400366,Moldovan,1
+1285,Jeramie Benham,superstructure,51.724875399999995,23.0876498,Montenegrin,1
+1286,Sanders Seabridge,function,-40.482413799999996,175.3010644,Georgian,1
+1287,Sunny Clorley,capability,56.31701089999999,43.994909,Swati,1
+1288,Iseabal Hubbucks,local area network,8.506780699999998,124.75993799999999,English,1
+1289,Casey Jacquet,Horizontal,41.733296,125.56684990000001,Catalan,0
+1290,Phillie Bloy,Assimilated,59.9363422,10.7356301,Khmer,1
+1291,Vinson Rawlison,value-added,26.908403999999997,100.218695,Gagauz,0
+1292,Angela Lewendon,Multi-lateral,54.311687,-130.3293111,Sotho,0
+1293,Granville Pidgeon,mission-critical,31.87022,35.12682,Somali,0
+1294,Jory Eskrigge,Face to face,53.689758700000006,87.43157059999999,Māori,0
+1295,Cleve Littlejohns,logistical,40.547653000000004,81.280527,Quechua,0
+1296,Dora Guiduzzi,responsive,6.819237400000001,3.1930302000000004,Filipino,0
+1297,Joanne Keesman,discrete,-39.103215000000006,-67.0940101,Guaraní,1
+1298,Blake Antecki,website,25.6759249,103.66454279999999,Dhivehi,0
+1299,Stace Moncreiff,incremental,53.7217952,40.0305734,Sotho,0
+1300,Richardo Ourtic,throughput,19.380393100000003,-99.14769079999999,Bulgarian,1
+1301,Culver Carwithim,definition,25.4110762,56.2482277,Catalan,0
+1302,Shae Hugonet,stable,51.506437,100.6714581,Gujarati,0
+1303,Ced Durtnall,access,40.506752500000005,47.6489641,Nepali,0
+1304,Hertha Emmott,portal,-12.899232000000001,-75.8312432,Somali,0
+1305,Sib Barkess,national,35.4383695,137.2435332,Aymara,1
+1306,Faythe Di Biasio,Focused,9.649657099999999,-75.14029079999999,Maltese,1
+1307,Alisa Kirrage,framework,-6.9670000000000005,113.7517,Catalan,1
+1308,Dorena Consadine,bottom-line,-2.7195658,120.26281110000001,West Frisian,0
+1309,Any Tripet,well-modulated,32.8771669,-5.053363200000001,Japanese,0
+1310,Angel Mariolle,function,34.819583,32.4608775,Oriya,0
+1311,Bernadina Cattini,national,41.023306899999994,80.26973819999999,Fijian,1
+1312,Harriette Rupp,Graphic Interface,50.4163784,-105.5361463,Fijian,1
+1313,Constancy Prisk,emulation,30.135462,113.18464499999999,Burmese,0
+1314,Kimbell Dumphries,actuating,27.868431400000002,-82.52703879999999,Somali,0
+1315,Junette De Cruce,Decentralized,11.5000501,123.05037620000002,Dari,0
+1316,Ashil Luety,encompassing,50.7338713,16.0708309,Ndebele,0
+1317,Colman Dumbell,client-server,30.453667,114.872199,Norwegian,1
+1318,Cinderella O'Shevlin,neural-net,42.418024,20.7949428,Italian,1
+1319,Bessie Ratnage,impactful,7.436824400000001,3.2885455,Mongolian,1
+1320,Row Steane,foreground,31.491169,120.31191000000001,Persian,1
+1321,Micky Duncanson,knowledge base,34.326903,108.117456,Kannada,1
+1322,Luz Bernholt,attitude,40.5511823,22.249713,French,0
+1323,Vittoria Willson,De-engineered,14.024307,35.3685679,Yiddish,0
+1324,Dugald Cicchinelli,Multi-channelled,-8.584571,116.1245642,Swedish,1
+1325,Osgood Syseland,dedicated,49.9772098,1.6928443,Luxembourgish,0
+1326,Rea Caiger,infrastructure,-7.1045438999999995,107.8961537,Italian,0
+1327,Anitra Aloway,exuding,-7.2638,106.54,Finnish,1
+1328,Willey Vickerman,Organic,-21.4206681,15.9523622,Fijian,0
+1329,Gregoor Tremaine,24 hour,53.9476748,32.8565262,Kazakh,0
+1330,Lazar Espada,utilisation,59.99333000000001,30.36389,Khmer,0
+1331,Lauri Croisdall,hub,1.9731029999999998,34.0641419,Estonian,0
+1332,Heath Zukerman,monitoring,31.2289489,121.45842179999998,Tamil,0
+1333,Analiese Moyce,knowledge base,25.435183,105.186237,Aymara,0
+1334,Lorelei Cable,concept,49.6355347,-1.6272461999999999,Bislama,1
+1335,Jedidiah Solesbury,systemic,49.666675,19.2774975,Macedonian,1
+1336,Maurene Quene,transitional,40.804574,-96.6157192,Azeri,1
+1337,Shannon Allbones,access,21.270702,110.35936799999999,Dari,1
+1338,Malchy Wakenshaw,24 hour,30.807667,108.40866100000001,English,0
+1339,Sebastian Favel,Organized,24.8051928,125.2789544,Assamese,1
+1340,Mavis Seago,analyzer,50.801821200000006,30.1345542,Kazakh,0
+1341,Auroora Cayton,task-force,39.7291573,47.6541468,Danish,0
+1342,Matt Althorpe,Object-based,-6.6126214999999995,105.72338140000001,Kurdish,1
+1343,Jessa Pyott,Implemented,-15.323882800000002,-70.0737598,Catalan,1
+1344,Cindra Yakhin,Multi-channelled,30.135462,113.18464499999999,Hebrew,1
+1345,Walden Meecher,object-oriented,-33.7677679,150.825109,Tamil,0
+1346,Christine Hanney,Grass-roots,-6.8897071,-38.5612185,Catalan,0
+1347,Lyon Yurocjhin,website,9.616419,11.43472,New Zealand Sign Language,0
+1348,Lisbeth Verry,support,33.026385999999995,106.002647,Northern Sotho,0
+1349,Maurita Markus,Adaptive,-15.273550400000001,23.1501117,Armenian,1
+1350,Alysia Woodwind,moratorium,-10.507793,-40.323089,Quechua,0
+1351,Lin Philimore,Triple-buffered,43.3994108,44.7585599,Armenian,0
+1352,Rolando Cookson,parallelism,-29.7132471,-52.83126609999999,Finnish,1
+1353,Micky Crankhorn,Customizable,8.679186999999999,124.97230900000001,Gujarati,0
+1354,Elinore Laurance,bi-directional,-29.8524975,-51.1845782,Indonesian,0
+1355,Rycca Ferrone,knowledge user,42.4395419,-83.3155257,Gujarati,0
+1356,Ginni Tune,object-oriented,23.2654395,113.3547602,Czech,0
+1357,Jerad Brinded,Extended,-10.1535,120.6278,Gujarati,1
+1358,Lyn Bromhead,intranet,43.4617173,16.598946599999998,Tajik,0
+1359,Efren Pendrill,mission-critical,34.3552212,132.336641,Georgian,1
+1360,Neal Teodori,Business-focused,4.5385626,12.0204247,Persian,0
+1361,Tuck McComiskie,Devolved,34.620202,112.453926,Korean,1
+1362,Ardys Callar,Cloned,-8.2631,113.8575,Bulgarian,1
+1363,Fitz Warsap,Fully-configurable,-7.4141326,108.71851840000001,Haitian Creole,0
+1364,Trev MacRirie,benchmark,-8.412098,119.86655400000001,Maltese,0
+1365,Patrizia Oaker,intermediate,38.143169,117.497651,Māori,0
+1366,Kingsly McKue,Proactive,51.298200200000004,20.296952800000003,Pashto,0
+1367,Bondon Guerreau,Vision-oriented,26.8626548,85.55606350000001,Polish,1
+1368,Hedy Fusedale,secondary,55.8426843,38.187121600000005,Macedonian,1
+1369,Merill Delatour,national,53.2954476,18.6875465,Mongolian,0
+1370,Angelia Pretor,modular,41.1846313,-8.598522,Lao,0
+1371,Yevette Stihl,high-level,39.0493793,121.7791025,Sotho,1
+1372,Cazzie Acaster,Advanced,15.732691599999999,120.43464990000001,Irish Gaelic,0
+1373,Rosana Scopham,Customer-focused,49.939657399999994,16.9280562,Malayalam,1
+1374,Katey Dundin,leading edge,-37.0332999,-72.4,French,1
+1375,Arline Slaght,support,38.124594200000004,139.73741940000002,Pashto,1
+1376,Ivett Landal,Open-source,47.7585809,29.533915500000003,Afrikaans,1
+1377,Jenilee Riddles,Managed,16.269546,103.03569399999999,English,1
+1378,Agnesse Borlease,Persevering,40.385424,115.869854,Tajik,1
+1379,Lindy Corkel,logistical,-6.134111900000001,107.1839024,German,0
+1380,Burk Kleinzweig,Expanded,31.230390399999997,121.4737021,Montenegrin,0
+1381,Pearl Longea,leverage,52.710750100000006,-8.5054897,Ndebele,1
+1382,Marylee Scotsbrook,parallelism,53.0018699,-6.9858993,Georgian,0
+1383,Abbe Summerside,analyzing,16.7124054,98.57466490000002,Irish Gaelic,1
+1384,Maible Exall,bandwidth-monitored,49.835457,15.887635000000001,Tamil,1
+1385,Hilda Locks,Decentralized,50.045621000000004,22.4322889,Malagasy,1
+1386,Patrizia Pavy,software,49.7154966,-112.6338496,Oriya,0
+1387,Bliss Beumant,heuristic,-6.2102916,106.9833084,Mongolian,0
+1388,Lilllie Ferrieri,encoding,53.93600000000001,18.317730899999997,Georgian,0
+1389,Brig Grindell,systemic,38.8974019,-77.02625309999999,Tok Pisin,0
+1390,Maynard Duffitt,Versatile,40.4339379,21.9055846,Lithuanian,0
+1391,Mordy Papez,open system,53.4539951,26.4698363,Kashmiri,1
+1392,Putnam Conner,capability,21.3106467,92.09740759999998,Moldovan,1
+1393,Fleur Moynham,dynamic,29.171978000000003,89.146146,Hungarian,1
+1394,Terry Manon,access,12.002179400000001,8.5919561,West Frisian,1
+1395,Ricky Cosbey,Team-oriented,46.5548251,15.581776300000001,Malay,0
+1396,Jessy Romeo,Sharable,-29.6540396,-51.1848488,Kyrgyz,0
+1397,Wylie Floyed,interactive,-6.9704825,111.4350413,Gujarati,1
+1398,Jilleen Mellings,Front-line,-23.371186399999996,-46.7575221,Afrikaans,1
+1399,Marlo Cecely,benchmark,14.6297081,-90.9181849,Punjabi,1
+1400,Fulvia Castelli,framework,-6.600022599999999,106.79718999999999,Assamese,0
+1401,Gregor Blatherwick,Optional,31.9963592,-5.1174039,Albanian,1
+1402,West Grimmer,even-keeled,-7.779809200000001,110.3562018,Hindi,1
+1403,Sondra Vescovini,neutral,15.075983800000001,108.7125791,Assamese,1
+1404,Lorrie Feavers,attitude-oriented,51.3798501,20.275774600000002,Swahili,0
+1405,Chicky Jankovic,analyzer,45.6542789,-74.3481941,Punjabi,0
+1406,Stevie Loins,logistical,38.7280454,-9.3225944,Tamil,0
+1407,Ernie Reubens,Fundamental,-26.1164276,-49.8091065,Oriya,0
+1408,Rodi Madine,didactic,-8.618134,122.1916328,Tok Pisin,0
+1409,Pancho Conklin,flexibility,16.084073,120.026896,Punjabi,0
+1410,Verena Raulin,system-worthy,31.235737699999998,121.5054068,Kashmiri,0
+1411,Carlyle Cordier,interactive,25.84122,116.023145,Croatian,0
+1412,Myrtice Milmo,bi-directional,55.385141299999994,39.0323223,New Zealand Sign Language,1
+1413,Perkin Frier,web-enabled,-8.0634771,113.82277920000001,Chinese,1
+1414,Jerry Risbridger,array,43.6947273,43.278773,Papiamento,0
+1415,Caryl Silcocks,context-sensitive,-6.916,112.0637,Persian,1
+1416,Christel Buxcy,collaboration,54.51667,24.83333,Hebrew,1
+1417,Malena Fulker,clear-thinking,56.234062800000004,37.5182622,German,0
+1418,Sisely Sparry,object-oriented,56.3289836,116.1168555,Bislama,1
+1419,Keri Esche,encoding,41.92363710000001,20.9163887,Nepali,0
+1420,Lyndell Aspray,Business-focused,23.583208,116.468928,Latvian,0
+1421,Almire Olsson,encryption,-30.9178625,-55.5469032,Afrikaans,1
+1422,Melinde Abernethy,core,30.233873,119.724733,Papiamento,1
+1423,Martin Dockree,function,28.677948999999998,108.304926,Icelandic,1
+1424,Fabe Giffard,uniform,47.389214200000005,0.6942885,Malay,0
+1425,Andreana Altham,infrastructure,48.008098100000005,6.7166698,Swati,1
+1426,Ragnar Albone,project,50.909807,22.834665899999997,Belarusian,0
+1427,Christi Vize,bottom-line,16.095465400000002,99.8348146,Papiamento,1
+1428,Anica Hulland,Virtual,-34.080372499999996,24.9116378,Tamil,1
+1429,Tim Gritton,holistic,44.340720000000005,129.4828511,Swahili,1
+1430,Jaime Cleave,systematic,-18.5926206,-46.520345299999995,Swahili,1
+1431,Bartholemy Lampe,Advanced,40.6043141,-7.9783991,Filipino,0
+1432,Hatti Venning,Stand-alone,24.0993658,90.1046678,Tamil,0
+1433,Mozelle Vautier,Polarised,40.5425073,44.868475,Bengali,1
+1434,Berkeley Cawood,dynamic,14.621312699999997,-90.5500942,Kazakh,1
+1435,Rhoda Coye,Synergized,33.1,-117.28,Tajik,1
+1436,Sherye Peacey,neutral,5.0549877,-75.6789905,Chinese,1
+1437,Saul Boas,background,-8.0433348,113.07629540000002,Tamil,0
+1438,Simonne Tedstone,Vision-oriented,-4.1383821,103.9724141,Dutch,0
+1439,Daisi Tume,Horizontal,38.3204422,141.0226267,Guaraní,0
+1440,Lenka Wetherburn,interactive,49.7923299,13.491532399999999,New Zealand Sign Language,0
+1441,Upton Frichley,web-enabled,40.2608574,23.2215193,Hiri Motu,0
+1442,Christian Barge,software,50.4305778,18.1872242,West Frisian,0
+1443,Aida Robertelli,Profit-focused,35.0021932,71.4061876,Gujarati,1
+1444,Min Pedlar,ability,55.6967262,39.2331589,Lithuanian,0
+1445,Herbert Toop,hardware,-15.163245800000002,19.1612478,Gujarati,1
+1446,Shantee Mundie,Decentralized,11.1228862,122.5402486,Marathi,0
+1447,Elsbeth De L'Isle,forecast,-9.635569,119.413498,Tswana,0
+1448,Jaquith Birtwell,system-worthy,49.9454719,21.8376406,Somali,1
+1449,Batholomew Limpricht,success,44.362833,85.35698000000001,Danish,1
+1450,Jacquelynn Bowerbank,high-level,17.097797500000002,121.8540162,Khmer,0
+1451,Felizio Aloshkin,cohesive,37.496847100000004,23.447886999999998,Georgian,1
+1452,Cecelia Sandwith,support,11.275540699999999,49.1878994,Fijian,0
+1453,Francyne Franks,Versatile,41.5722945,20.052301899999996,Irish Gaelic,0
+1454,Ellary Ferguson,middleware,63.4107694,10.399645199999998,Nepali,0
+1455,Ezekiel Temperley,Down-sized,21.175343100000003,105.73080449999999,Nepali,1
+1456,Albrecht Gumey,hierarchy,31.690363800000004,-106.42454779999998,German,1
+1457,Link Larvor,upward-trending,-9.3601019,-77.553344,Kurdish,1
+1458,Hildagard Maseyk,project,29.603915,118.32266299999999,Spanish,0
+1459,Olivero Deport,Polarised,3.0100681000000002,101.53267340000001,Swati,1
+1460,Garv Methringham,radical,-7.415712599999999,-38.084300799999994,Swedish,0
+1461,Sim Morford,ability,38.08239879999999,15.638320199999999,Swati,1
+1462,Dora Miskimmon,Down-sized,21.2045417,72.839054,Tok Pisin,1
+1463,Tomasine Lattie,portal,60.684976,17.153166,Catalan,0
+1464,Hugh Kearns,framework,32.990664,112.52830800000001,Chinese,1
+1465,Richmound Whitelaw,artificial intelligence,52.0646474,21.4836639,Norwegian,1
+1466,Batholomew Rosencwaig,projection,31.3106446,120.62568059999998,New Zealand Sign Language,0
+1467,Zachariah Van Son,executive,49.0996492,17.5496163,Marathi,0
+1468,Rockwell Bakhrushkin,Devolved,39.0000158,140.0433007,Tamil,1
+1469,Annelise Drivers,core,45.030617,21.0613022,Bosnian,1
+1470,Brody Francis,Customizable,50.43302,21.28065,Hungarian,1
+1471,Konstantine Cock,strategy,31.230390399999997,121.4737021,Kyrgyz,0
+1472,Kandace Berzon,workforce,9.511318699999999,-75.3761952,Sotho,0
+1473,Auberta MacGiffin,Configurable,49.909231899999995,18.5234252,Gagauz,1
+1474,Deerdre Depper,intermediate,-6.5055,106.4959,Czech,0
+1475,Reinald Newbatt,intermediate,-7.215725099999999,107.90198899999999,Guaraní,0
+1476,Sheridan O'Hogertie,Team-oriented,39.9416682,116.3958807,Icelandic,1
+1477,Walton Vaskin,time-frame,39.4598833,48.5509813,Dutch,0
+1478,Lanae Gerardet,coherent,45.55939779999999,-122.807445,Kurdish,1
+1479,Buck Robertshaw,Optimized,41.088242799999996,-7.5686677,Croatian,1
+1480,Sibeal Nestle,software,21.956492,112.805131,Persian,0
+1481,Tamiko Cauldfield,Horizontal,9.9165452,-84.10146390000001,Finnish,1
+1482,Viv Cearley,open system,-1.2468663,110.0926112,Marathi,0
+1483,Alix McGiven,Intuitive,25.461545,118.31969,Irish Gaelic,1
+1484,Doll Shivell,alliance,45.784995200000004,-72.0145063,Lao,1
+1485,Darcey Buffey,array,-40.2458577,175.54829009999997,Swati,1
+1486,Tynan Omand,secured line,50.317116999999996,30.298167,New Zealand Sign Language,0
+1487,Maxie Brisset,frame,50.5251922,16.879158899999997,Nepali,0
+1488,Mala O'Riordan,uniform,33.53228,38.008179999999996,Gagauz,0
+1489,Raffaello Stallan,Enhanced,-13.831435,-171.79852230000003,Marathi,1
+1490,Jewel Veysey,time-frame,12.5350875,124.7907837,Yiddish,0
+1491,Timothee Faires,Secured,56.551478599999996,36.434717299999996,Telugu,1
+1492,Jermaine Anwell,collaboration,37.434092,116.357464,Icelandic,1
+1493,Frazer Sargeaunt,time-frame,22.881103200000002,113.622578,Marathi,0
+1494,Wheeler Leheude,Secured,49.2686175,-122.9364381,Armenian,0
+1495,Jeane Skeels,architecture,50.1045321,20.0395965,Malay,0
+1496,Derick Blumson,emulation,32.707446399999995,108.9391253,Danish,1
+1497,Valery Ambrogetti,24 hour,39.0638705,-108.5506486,Croatian,0
+1498,Conni Reeday,bi-directional,25.152278,104.241546,Northern Sotho,0
+1499,Emanuel Yoodall,Open-architected,49.162849,112.819,Fijian,0
+1500,Zeb Ghirigori,homogeneous,13.78024,43.869009999999996,German,0
+1501,Kellyann Beurich,approach,15.63981,43.556329999999996,Bulgarian,1
+1502,Savina Ramsted,knowledge base,43.2937769,17.0215239,Punjabi,0
+1503,Ellerey Hardway,Public-key,43.494573700000004,5.8978018,Fijian,1
+1504,Viki Sandiford,Upgradable,53.58340079999999,-6.1349155,Estonian,0
+1505,Latrena Muino,flexibility,7.01806,124.18056000000001,Hungarian,1
+1506,Charil MacHoste,Stand-alone,-23.2248099,-47.4882762,Azeri,1
+1507,Ellerey Fradgley,concept,35.0552848,137.0128051,Albanian,0
+1508,Mignon Peetermann,dedicated,9.338682,123.291063,Papiamento,1
+1509,Giacopo Allred,Cross-platform,53.286578000000006,36.590475899999994,Quechua,0
+1510,Dedra Hearthfield,pricing structure,-6.4712737,110.81710819999999,Kashmiri,1
+1511,Tricia Innocenti,function,29.894971999999996,121.53805700000001,Māori,0
+1512,Natalya Newcomb,firmware,46.861913200000004,42.1175494,Albanian,0
+1513,Annabella Ching,Focused,32.2342478,-111.00339840000002,Oriya,0
+1514,Myrtia Montier,framework,53.1121503,48.4211315,Quechua,0
+1515,Allen Tolle,encompassing,7.100005099999999,4.841693599999999,Montenegrin,0
+1516,Carmon Harnes,demand-driven,16.783695,106.9830865,Chinese,0
+1517,Rinaldo Bugg,Graphic Interface,-5.0077012000000005,122.5019655,Lao,0
+1518,Barbette Hatchell,Switchable,50.182326399999994,19.2871769,Greek,1
+1519,Giulia Guilloneau,Multi-layered,-15.787440599999998,35.030814,Romanian,0
+1520,Ramona Annion,Future-proofed,49.039076,2.074954,Kazakh,1
+1521,Nolly Darnbrough,capacity,35.3170344,70.8744255,Romanian,0
+1522,Biddie Applegate,object-oriented,30.554713899999996,-84.0801613,Polish,1
+1523,Winonah Dennistoun,orchestration,23.2675871,-106.38309040000001,Haitian Creole,1
+1524,Sanford Brechin,motivating,34.8660113,135.1517895,Filipino,1
+1525,Orazio Witheridge,user-facing,50.23507070000001,38.0596975,Croatian,1
+1526,Dacy Clavey,Future-proofed,-19.8502345,-47.3706554,Lao,0
+1527,Pinchas Tellenbach,Pre-emptive,51.3870782,28.8660119,German,0
+1528,Devonna Wordley,Focused,49.9609687,13.970642100000001,Bosnian,1
+1529,Jorie Ponten,web-enabled,58.760833,59.55500010000001,Catalan,0
+1530,Sterne Tomes,Profound,14.024307,35.3685679,Kannada,0
+1531,Nicholas Leagas,conglomeration,7.4576765,-2.5842062,Icelandic,1
+1532,Lane Cunnah,foreground,49.0965676,-117.71173,Indonesian,1
+1533,Lexy Fullilove,Stand-alone,39.8286146,69.53208240000001,Northern Sotho,0
+1534,Nikkie Hacking,Centralized,33.833797,35.544145,Marathi,1
+1535,Lammond Ivanilov,Re-engineered,-22.433332999999998,26.416666999999997,Afrikaans,0
+1536,Kristyn Scyone,Assimilated,39.974179,116.293727,Albanian,1
+1537,Wendy Boeter,Devolved,15.3947065,105.17268159999999,Malagasy,1
+1538,Madelena Hugueville,Front-line,60.615204799999994,15.6527231,Polish,1
+1539,Eli Hollow,coherent,26.850355199999996,90.960716,Burmese,1
+1540,Gallagher Sigward,portal,47.0203676,-68.1435063,Lithuanian,0
+1541,Sibby Ashpole,24 hour,47.01628839999999,-68.14299940000001,Chinese,1
+1542,Bridie Leyshon,reciprocal,-7.55,111.28333300000001,Irish Gaelic,0
+1543,Arte Von Helmholtz,Open-architected,-6.906714,-78.25705,Gujarati,1
+1544,Winnie Coston,zero tolerance,45.2379183,38.9712949,Bulgarian,0
+1545,Holly Kemmey,access,13.821187099999998,-60.9001934,Danish,0
+1546,Rena Somerbell,systematic,50.6283477,18.7971435,Belarusian,1
+1547,Devlen Rapley,homogeneous,47.648627000000005,35.658694200000006,Bengali,1
+1548,Danna Waterfield,Versatile,42.284605,125.744735,Moldovan,0
+1549,Decca McAreavey,Enhanced,22.872654999999998,113.268583,Romanian,0
+1550,Starr Cornils,responsive,15.868716000000001,120.39201159999999,Bislama,1
+1551,Zackariah Pilsbury,function,12.013045,124.815974,Catalan,0
+1552,Freddi Doulton,task-force,41.2008182,-7.8020355,Assamese,0
+1553,Tome Coonihan,leading edge,-18.326937100000002,29.916227600000003,Dutch,1
+1554,Janek Buckleigh,Open-source,27.2391407,108.9329091,Hiri Motu,0
+1555,Rickard Tofanelli,Self-enabling,57.14666999999999,33.10753,Bulgarian,0
+1556,Sondra Lambie,bottom-line,43.16975789999999,45.3686414,Norwegian,0
+1557,Kylila Hawthorn,Multi-tiered,-0.677334,34.779603,Armenian,0
+1558,Samantha Giral,Centralized,18.903520999999998,110.47764199999999,Norwegian,0
+1559,Basile Camilleri,cohesive,27.951331,92.009188,Czech,1
+1560,Oran Sambells,Seamless,-32.2331548,-53.0866941,Swati,0
+1561,Avis Fantin,maximized,55.6842625,37.8548295,Hiri Motu,1
+1562,Dana Tweede,Balanced,-7.161244099999999,108.16955039999999,Zulu,0
+1563,Margareta Layne,core,4.733779,-74.2627569,Greek,0
+1564,Yevette Vasey,Programmable,30.999115399999997,-9.675904,Montenegrin,1
+1565,Jade Whear,asynchronous,40.807399,44.4970268,Armenian,1
+1566,Damiano Melvin,Visionary,8.797145,-75.698571,Romanian,1
+1567,Jannelle Cruddas,heuristic,-20.7430332,-46.6096926,Malagasy,0
+1568,Esmeralda Tuerena,budgetary management,-7.3804443,108.01985570000001,Lao,1
+1569,Fred Burtwhistle,analyzing,60.41974449999999,25.565248399999998,Zulu,1
+1570,Zebedee Chalcot,actuating,34.728584000000005,112.132488,Georgian,1
+1571,Lynnett Buckeridge,array,18.714928,110.40181399999999,Luxembourgish,0
+1572,Fields Dummer,upward-trending,-0.1634664,35.59313970000001,Arabic,0
+1573,Minnie Creer,flexibility,56.578971200000005,85.1026739,Swahili,0
+1574,Stern Arkil,Inverse,53.1294318,87.4792556,Punjabi,0
+1575,Carla O'Gorman,human-resource,34.9520642,118.3410867,Tetum,0
+1576,Diarmid Trevaskiss,encryption,54.8,24.45,New Zealand Sign Language,0
+1577,Gabey Gentiry,forecast,50.830564700000004,33.8815261,Danish,0
+1578,Elroy Landell,grid-enabled,13.5920158,122.320801,Maltese,1
+1579,Tris Fishpool,architecture,-20.4413004,-63.279822499999995,Sotho,1
+1580,Andree Bourdice,Customizable,22.654032,110.18122,Montenegrin,0
+1581,Rhody Beauman,Team-oriented,-27.011390000000002,-49.5483671,Spanish,1
+1582,Benedetto Francisco,Function-based,12.2015729,99.94570429999999,Icelandic,1
+1583,Richmond Alstead,Multi-layered,-16.4708895,46.7164256,Czech,1
+1584,Neille Nathan,moratorium,49.7917105,18.344273899999997,Lao,0
+1585,Evangelia Demageard,Open-source,2.9370409,98.611191,Telugu,0
+1586,Lucilia Stoad,Open-source,-7.5511508,111.65476890000001,Somali,0
+1587,Mathian Chazette,capacity,31.733822200000002,118.8719394,Macedonian,0
+1588,Winston Gutowska,attitude,63.839604,-22.410284,Hebrew,0
+1589,Milicent Billion,non-volatile,12.507789500000001,-86.90355109999999,Persian,1
+1590,Molli Stean,workforce,41.8977003,12.509727400000001,Kashmiri,0
+1591,Osbourn Robbey,process improvement,40.298004600000006,43.765332,Italian,0
+1592,Sephira Weaving,Integrated,-4.2450638,-42.2925342,French,1
+1593,Essa Keppe,attitude,30.857151,120.18583799999999,Swahili,1
+1594,Allan Kinnerk,contingency,25.7232439,-100.36713890000001,Hebrew,0
+1595,Lise Povah,responsive,43.933411,116.086032,Zulu,0
+1596,Linoel Antoszewski,Enterprise-wide,14.478311900000001,121.0331004,Irish Gaelic,0
+1597,Yetty Hubbucks,human-resource,37.499972,105.19690200000001,Persian,1
+1598,Nelie Dupree,protocol,48.635472899999996,38.637393700000004,Swedish,0
+1599,Hal Ege,installation,4.6096768,101.1064003,Sotho,0
+1600,Cyndie Troppmann,Synergistic,53.28741529999999,-6.3660863,Dutch,1
+1601,Philippe Oleksinski,Graphic Interface,42.3242187,59.1818543,Tswana,1
+1602,Bud Brik,Business-focused,21.9588282,96.0891032,Georgian,0
+1603,Vanna Dale,implementation,52.59285229999999,21.458395,German,1
+1604,Catrina Crocket,methodology,-6.782710400000001,108.51960279999999,Swati,0
+1605,Christal Scutchin,knowledge user,32.667571,119.00481599999999,Zulu,0
+1606,Ave Hoyes,Pre-emptive,7.1809842,7.9797218999999995,Gagauz,0
+1607,Bogart Noon,Stand-alone,59.852990000000005,30.245977000000003,Bulgarian,1
+1608,Tova Birrel,complexity,48.0386685,-2.9231898,Romanian,1
+1609,Kacy Cranham,Front-line,14.5316764,120.9983837,Tajik,1
+1610,Gracia Boxall,well-modulated,7.196659599999999,35.4288797,Marathi,0
+1611,Emmanuel Barwell,Implemented,35.883899,139.52336609999998,Zulu,1
+1612,Evaleen Gherardi,holistic,-8.011038300000001,112.6109257,Lao,0
+1613,Anitra Matej,orchestration,-9.7390437,119.8699493,Danish,0
+1614,Galven Rosin,model,40.3984011,-8.7050402,Lao,1
+1615,Sydney Frankcomb,Managed,56.939642799999994,37.3590646,Quechua,1
+1616,Glynda Else,heuristic,27.556685700000003,107.0336505,Aymara,1
+1617,Mehetabel Whyte,function,30.2382492,49.706454799999996,Haitian Creole,1
+1618,Jenelle O'Rowane,protocol,10.4675987,-68.5575062,Tswana,0
+1619,Cassandre Pugh,implementation,39.635490000000004,112.109567,New Zealand Sign Language,1
+1620,Griffy Ablett,Visionary,38.707638,-9.197834,Hiri Motu,0
+1621,Pegeen Pettiford,moratorium,39.029567,117.66108200000001,Quechua,1
+1622,Vonny Mangeot,user-facing,45.4744072,39.8789122,Swahili,0
+1623,Lauralee Espinosa,zero administration,53.9804128,27.667028600000002,German,0
+1624,Hayward Durand,access,48.8505771,2.4273906000000003,Bislama,1
+1625,Yardley Whimp,moderator,17.6143085,99.19552900000001,Kyrgyz,1
+1626,Bert Ritelli,background,50.5089112,26.2566443,Bosnian,0
+1627,Slade Dalmon,24 hour,14.5458392,121.00448829999999,Greek,0
+1628,Claudina Adaway,object-oriented,51.5574609,20.864019100000004,Korean,1
+1629,Genvieve Cammocke,multi-state,13.8135951,100.42279920000001,Croatian,1
+1630,Donnamarie Freeland,Phased,6.8080933,125.19345120000001,Belarusian,1
+1631,Damian Greeve,challenge,-6.989907700000001,110.40982369999999,Georgian,1
+1632,Gustave Napoleone,composite,9.7031412,10.1941399,Maltese,0
+1633,Dane Dodridge,Cross-platform,30.918919,110.49438500000001,Pashto,1
+1634,Nancee Piddlehinton,time-frame,30.63963,114.38553799999998,Zulu,1
+1635,Dermot Tulloch,flexibility,53.340959,83.777896,Kyrgyz,0
+1636,Tamqrah Prandoni,upward-trending,13.924129999999998,44.1459167,Somali,0
+1637,Berny Meatcher,service-desk,31.812301399999996,34.777019200000005,Montenegrin,0
+1638,Elaina Featherstonhaugh,website,28.650071999999998,121.261886,Sotho,1
+1639,Sybilla Bartleman,initiative,-4.307390799999999,104.78126540000001,French,0
+1640,Con Alywen,collaboration,31.961703200000002,119.57384029999999,Yiddish,0
+1641,Darcee Lytlle,Horizontal,37.449896200000005,24.9353935,Hindi,1
+1642,Vanni Lundy,static,50.188406,18.598769,Korean,0
+1643,Sindee Sworder,ability,7.514621000000001,151.96711969999998,Armenian,0
+1644,Ruthie Joskowicz,matrix,38.422456200000006,48.8687149,Dhivehi,0
+1645,Sonni Alleburton,content-based,41.236675,69.3413913,Tetum,1
+1646,Kerstin Delve,Optimized,48.849397499999995,2.4751086,Tamil,1
+1647,Archaimbaud Vicary,multi-state,49.1809643,13.5548562,Indonesian,0
+1648,Clio Vaun,stable,36.097577,114.39239199999999,Marathi,1
+1649,Dyna Greenhouse,Up-sized,37.355469,120.434071,Ndebele,1
+1650,Brigg Hebard,productivity,16.7315698,104.07690240000001,French,1
+1651,Nataline Petrovic,productivity,53.0210495,27.554013,Estonian,0
+1652,Ibbie Cristofari,website,-2.6832706,134.56902250000002,Indonesian,0
+1653,Malorie Kellie,monitoring,11.9913493,108.9383377,Burmese,0
+1654,Terencio Tomasini,architecture,22.912687,115.29789299999999,Malagasy,0
+1655,Stephanus Geibel,hierarchy,-7.620317,112.3695412,Lithuanian,1
+1656,Dani Keeton,instruction set,-12.777294699999999,-38.9211273,French,0
+1657,Denys Campany,5th generation,25.274373999999998,118.03386299999998,Dutch,0
+1658,Duff Theze,toolset,-21.6493783,-41.745717,Georgian,0
+1659,Hyman Causton,upward-trending,-21.0156896,-48.7794089,Dzongkha,0
+1660,Hayyim Barnewelle,Future-proofed,-7.627247200000001,114.0369075,Italian,1
+1661,Stacia Lillicrap,Programmable,35.2,112.16666670000001,Armenian,1
+1662,Yevette Henricsson,dynamic,30.910965,114.82703799999999,Swahili,0
+1663,Anthe Farmery,Object-based,0.4994734,101.4095405,Bulgarian,0
+1664,Murvyn Hadgkiss,Phased,24.8805556,102.47527779999999,Marathi,0
+1665,Cleveland Saer,Team-oriented,3.3262879,99.1566855,German,0
+1666,Anabella Abrahamoff,orchestration,41.150963899999994,-7.973700200000001,Czech,1
+1667,Percival Kohrt,Synergized,42.057517,24.547953500000002,Spanish,0
+1668,Marti Stammer,software,34.8475775,127.3416,Bengali,0
+1669,Corene Tanzer,Mandatory,39.0392193,125.7625241,Spanish,1
+1670,Gherardo Firbank,Integrated,23.021478,113.121435,Greek,1
+1671,Cully Petrosian,productivity,55.783269999999995,-118.83606999999999,Italian,1
+1672,Manya Edyson,multi-state,13.4817182,-86.4920736,Dutch,0
+1673,Ryon Lowres,array,-34.593720899999994,-58.5035787,Latvian,1
+1674,Miles Hatherell,Extended,12.7854969,45.01865479999999,Amharic,1
+1675,Lexy Phair,neural-net,50.0897141,8.271907,Somali,0
+1676,Ernesta Blackler,Balanced,50.3649126,23.7519532,Assamese,0
+1677,Cloe Sugar,real-time,5.1079431,8.178930099999999,Armenian,0
+1678,Georgianna Lacroutz,Multi-lateral,17.251011399999996,-88.75902009999999,Bislama,0
+1679,Kristoforo Coster,emulation,-2.8429632999999996,33.081714399999996,Punjabi,1
+1680,Wallie Quarrie,Balanced,44.999311299999995,19.9820405,Georgian,0
+1681,Tove Manion,bifurcated,45.2544588,5.704399700000001,New Zealand Sign Language,1
+1682,Justen Adolphine,encoding,22.615932,112.63448600000001,Kurdish,0
+1683,Eulalie McVane,Decentralized,30.7361622,72.66618670000001,Dzongkha,1
+1684,Kristian Croxton,Face to face,59.391109,17.875248100000004,Tetum,0
+1685,Cesya Worling,Inverse,-20.042178500000002,-47.7563994,Belarusian,1
+1686,Ruprecht Stych,Synergistic,-7.355927,110.64221979999999,Hiri Motu,0
+1687,Bria McMichael,interface,-2.4681008999999996,-66.1415263,Tswana,1
+1688,Bili Tasseler,project,-9.483333,-77.866667,Tok Pisin,0
+1689,Sharona Kleinerman,open architecture,13.039074000000001,123.36970829999999,Persian,0
+1690,Richmond Cookman,attitude,56.730693,16.2984317,Bengali,1
+1691,Ferdinande Kmiec,Object-based,39.949418,116.451187,Moldovan,0
+1692,Reginauld Orgill,Persevering,33.5810958,71.4303404,Latvian,0
+1693,Max Ibotson,Enterprise-wide,27.483293,120.562211,Kannada,1
+1694,Sheeree Arney,paradigm,51.84045,39.941340000000004,Quechua,0
+1695,Skylar Chaffe,Multi-tiered,55.66654820000001,12.556108,Northern Sotho,1
+1696,Marylynne Grimestone,circuit,46.83182670000001,29.4620887,Finnish,1
+1697,Sashenka Filppetti,Configurable,36.813546,118.055019,German,0
+1698,Ber Farnall,open architecture,23.219932,102.835223,Zulu,1
+1699,Laurice Ortet,bi-directional,59.3473789,18.097533399999996,Oriya,1
+1700,Dorisa Hollyland,orchestration,4.583198599999999,114.22121740000001,Belarusian,1
+1701,Fernando Jocic,Diverse,-15.163245800000002,19.1612478,West Frisian,1
+1702,Nertie Minguet,monitoring,15.599720000000001,-91.44528000000001,Swahili,0
+1703,Sean Humphries,contingency,-34.7791734,-55.2314448,Portuguese,0
+1704,Briney Smoth,context-sensitive,58.610989000000004,24.503454100000003,Fijian,1
+1705,Shurwood McMorran,Robust,-15.158624,-48.2802925,Māori,1
+1706,Bobbi Clapp,Customizable,-12.9732026,40.517801399999996,Marathi,0
+1707,Lamont Connold,solution-oriented,14.7342524,121.0702642,Dzongkha,1
+1708,Thorsten Pashenkov,Progressive,5.83864,118.11695800000001,Dutch,1
+1709,Kakalina Muffitt,bi-directional,35.193337299999996,102.50643290000001,Kazakh,1
+1710,Antonino Tolman,capability,50.73928660000001,20.1476897,Bulgarian,0
+1711,Jayme Nono,secured line,42.7123148,25.3328975,West Frisian,1
+1712,Janeczka Flintoft,Customizable,23.5958633,120.28588459999999,Papiamento,0
+1713,Leeland Hannond,national,35.025793,110.99810900000001,Aymara,1
+1714,Collette Screase,directional,22.2092,113.29646699999999,Finnish,0
+1715,Emmye Tompkiss,migration,50.94076,16.49474,Gagauz,1
+1716,Isa Wallworke,methodology,44.985613,20.1568773,Maltese,0
+1717,Mirna Applin,zero tolerance,32.181821,119.749094,Portuguese,0
+1718,Darya Hymans,motivating,9.948601,99.0819914,Swedish,0
+1719,Drucill Cogman,Face to face,24.564073,108.525769,Guaraní,1
+1720,Shalne Steel,incremental,-5.7705839999999995,-79.313438,Italian,1
+1721,Addy Bunton,Implemented,-21.532058600000003,-42.4528138,Fijian,0
+1722,Sayer Brentnall,forecast,7.381530000000001,-73.91912099999999,Hiri Motu,0
+1723,Spike Arpe,hub,-6.669221,106.0463837,New Zealand Sign Language,1
+1724,Mellisent Mulford,forecast,16.272543099999996,107.9394761,Swati,1
+1725,Brandi Ofield,object-oriented,14.4833291,-89.00239609999998,English,1
+1726,Georgy Blaza,Future-proofed,-0.9342007999999999,100.3617345,Yiddish,1
+1727,Sybila Behrend,multi-tasking,34.878483,113.27750400000001,Catalan,1
+1728,Raynor MacCombe,Total,39.4598833,48.5509813,Danish,1
+1729,Cordie Mattia,neural-net,10.2947384,123.95951640000001,Greek,0
+1730,Corena Naerup,transitional,43.494573700000004,5.8978018,Burmese,1
+1731,Frederique Gatrill,intermediate,45.559393,-73.907613,Finnish,1
+1732,Jorrie Ducastel,multimedia,9.2478,124.7215982,French,0
+1733,Dunn Sola,systemic,-45.8405005,-67.4686475,Kashmiri,1
+1734,Jeddy Lissemore,Configurable,-9.9836173,124.44200729999999,Tamil,1
+1735,Axel Kilalea,Enterprise-wide,38.5194,-9.0138,Filipino,1
+1736,Prince Stoneley,Innovative,3.1523103999999997,101.7178316,Afrikaans,1
+1737,Nan Gerardet,uniform,37.499972,105.19690200000001,Gujarati,0
+1738,Dex Berthod,circuit,-7.2929068,107.26663959999999,Gagauz,0
+1739,Robinia Cavnor,human-resource,63.0725838,14.823991,Danish,0
+1740,Othella Pottell,matrix,49.660576500000005,14.426643799999999,Mongolian,1
+1741,Onfroi Vasser,knowledge user,-6.2000052000000005,106.84492979999999,Hungarian,1
+1742,Leon Di Maria,directional,-5.1291727,-67.18944880000001,English,0
+1743,Leora Mattocks,focus group,7.084168400000001,38.6188955,Amharic,1
+1744,Dion Bonsall,Diverse,19.6938888,-99.2591666,Hindi,1
+1745,Delbert Kilduff,Distributed,39.197212,117.059698,Norwegian,1
+1746,Torrie Normanvill,Diverse,26.480043,113.77863899999998,Haitian Creole,0
+1747,Nicolle Branchet,moderator,41.523117,20.526623,Macedonian,0
+1748,Robb Cussons,hybrid,34.0046888,36.211039899999996,Tswana,0
+1749,Aime D'Elia,Grass-roots,22.948016,113.366904,Icelandic,0
+1750,Sharron Volkes,Intuitive,24.820587,103.323844,German,1
+1751,Boy O'Henehan,Innovative,43.0532801,17.6493431,Moldovan,1
+1752,Hubie Spender,Upgradable,50.2577508,58.432675,Croatian,1
+1753,Aloysius Crossgrove,Public-key,41.4204087,-8.3676461,Bengali,1
+1754,John Pollins,monitoring,42.9786866,141.83521130000003,Icelandic,0
+1755,Ingra Possa,Distributed,16.7646627,-93.1569465,Tetum,1
+1756,Moria Kettel,function,-29.0303854,-51.2003761,Bengali,1
+1757,Ilene Kendell,flexibility,31.364902,108.249509,Japanese,0
+1758,Dorree Charrisson,Front-line,36.85373920000001,-76.26529090000001,English,1
+1759,Barbabra Jewitt,5th generation,38.645300899999995,-7.7288378,Haitian Creole,1
+1760,Andrea Salters,high-level,-23.8714093,-49.8024588,Azeri,0
+1761,Fayth Farmiloe,24 hour,-25.407950399999997,-52.41347460000001,Japanese,1
+1762,Mead Fawdrey,Ergonomic,44.351935,-87.8445954,Norwegian,1
+1763,Kikelia Cordon,homogeneous,13.1317415,121.43511200000002,Estonian,0
+1764,Rutledge Cowdrey,monitoring,34.728584000000005,112.132488,Malayalam,0
+1765,Erskine Lideard,explicit,53.366735999999996,-6.3137550000000005,Bulgarian,1
+1766,Anetta Skrine,solution-oriented,41.664757,123.34406200000001,Macedonian,0
+1767,Doy Charley,Expanded,45.804626299999995,15.8749256,Macedonian,0
+1768,Gareth Ibell,bifurcated,39.765701,118.412764,German,1
+1769,Susanne Kenworth,Proactive,35.2019368,24.996407,Estonian,1
+1770,Marlene Fensome,executive,30.3659761,50.7936301,Italian,0
+1771,Cissiee Rohlfing,Profit-focused,42.0070624,24.441097199999998,Quechua,0
+1772,Adey Oblein,Customizable,51.886237799999996,-8.482471400000001,Papiamento,0
+1773,Pandora Pitkeathley,contextually-based,-6.81146,106.92568999999999,Swedish,1
+1774,Naoma Records,mobile,41.143720200000004,-8.067761200000001,Moldovan,0
+1775,Barny Warre,heuristic,-6.9535762000000005,108.8521777,Macedonian,0
+1776,Roselia Francecione,Face to face,49.610186299999995,14.906333800000002,Luxembourgish,0
+1777,Eddie Franzonetti,moderator,-6.2366306,106.7997862,Sotho,1
+1778,Corney Houlton,Reduced,43.2916776,-0.3696612,Tswana,0
+1779,Gasparo Dell Casa,next generation,15.483329999999999,48.43333,Bislama,1
+1780,Nathaniel O'Reilly,well-modulated,-7.2194536,108.00450020000001,Hungarian,0
+1781,Terese Leece,dedicated,25.6775595,-100.25969350000001,Sotho,0
+1782,Kathe Campe,utilisation,52.696078500000006,21.3639876,Finnish,1
+1783,Florinda Timewell,adapter,46.4979131,15.670211300000002,Kyrgyz,1
+1784,Gearalt Tilsley,Profound,37.745185299999996,-25.5823865,Mongolian,1
+1785,Jo-anne Hogben,data-warehouse,-7.806698,-77.71744079999999,Sotho,0
+1786,Bastien Quilter,Reverse-engineered,36.650038,101.766228,Korean,1
+1787,Dalis Abbotson,Polarised,48.584759399999996,-68.1942711,Bosnian,1
+1788,Dyana Beatens,Re-engineered,17.9670882,104.0444828,Gujarati,1
+1789,Alane Wisby,neural-net,41.5162209,-7.9927714000000005,Marathi,1
+1790,Aile Redshaw,multi-tasking,-43.264331299999995,-65.3506508,Chinese,1
+1791,Bendick Mangham,incremental,-31.460374100000003,-64.1959217,Thai,0
+1792,Cristal Jentin,adapter,-10.190452699999998,123.6007574,Hebrew,1
+1793,Sondra Pobjoy,Automated,53.085277399999995,82.3454181,Kashmiri,0
+1794,Clark Feavearyear,Configurable,18.6861986,98.91935490000002,Maltese,1
+1795,Claudetta Moorman,intangible,34.270691,99.19495699999999,Catalan,0
+1796,Evonne Lydden,bifurcated,48.9086571,2.4532855,Fijian,1
+1797,Noel Philippson,encompassing,16.0107976,120.1534815,Amharic,1
+1798,Abner Agerskow,real-time,11.4894238,-3.5230919999999997,Yiddish,0
+1799,Dione Scowen,real-time,38.8208757,-9.103043099999999,Sotho,0
+1800,Evy Bummfrey,impactful,53.09173810000001,-8.221594099999999,Malay,0
+1801,Clarke Willman,real-time,-8.3465933,115.5207358,Kazakh,0
+1802,Halli Habbal,ability,59.401337899999994,17.9291325,Tetum,0
+1803,Lynnett Wollen,concept,40.99259,21.4208548,Guaraní,0
+1804,Amanda Beaven,3rd generation,-2.430223,114.88048529999999,Georgian,0
+1805,Roldan Ridhole,6th generation,33.631238,113.645873,Polish,1
+1806,Matilda Petrozzi,projection,38.4791344,23.4486395,Lao,0
+1807,Alex Dyers,hub,35.202503,102.521807,Gujarati,0
+1808,Abran Geraldez,firmware,-9.6612173,20.3904598,Latvian,1
+1809,Bekki Sissland,Operative,-35.023433399999995,-63.5803937,Hindi,0
+1810,Kylie Selbach,didactic,-6.958048799999999,107.5847246,Bislama,1
+1811,Grethel Jeaycock,capacity,48.17527929999999,-1.7274798999999998,Armenian,1
+1812,Kristofer Bamber,benchmark,55.68289870000001,12.578656800000001,Nepali,1
+1813,Annie Northen,installation,30.025924,121.16611200000001,Montenegrin,1
+1814,Nikoletta Moretto,Proactive,36.6919385,38.9511518,Portuguese,0
+1815,Shauna Olphert,Graphic Interface,-6.6825,105.8573,Hungarian,1
+1816,Ewen Budd,Ameliorated,34.995728,104.655337,Hebrew,1
+1817,Othelia Leckenby,throughput,-1.5176836999999999,37.2634146,Malagasy,0
+1818,Mile Gieraths,didactic,-7.459928,110.27275690000002,Bulgarian,0
+1819,Prue Chevis,knowledge user,27.69417,109.73583,Nepali,0
+1820,Sabra Bools,Self-enabling,-8.553113,122.01554909999999,Danish,1
+1821,Allsun Petrolli,methodology,49.010909999999996,14.0000005,Portuguese,1
+1822,Jen Shervington,adapter,6.9463216,1.1688978,Papiamento,0
+1823,Ira Boyles,application,49.4136066,16.5814019,New Zealand Sign Language,1
+1824,Bridie Fishburn,didactic,53.6094616,-6.1832154,Swati,1
+1825,Carmel Kruschov,maximized,50.8866749,21.2296066,Nepali,1
+1826,Ebonee Duffree,Reduced,-3.3851176,-57.7146588,Hungarian,1
+1827,Teresita Ogborn,Intuitive,6.151442299999999,-5.9515399,Italian,1
+1828,Kellen Reglar,24 hour,23.759956,116.15738700000001,West Frisian,1
+1829,Raimundo Mandrier,attitude-oriented,48.7057309,2.2186743,Thai,1
+1830,Audrey Grisbrook,Down-sized,24.663055,118.41315,Swahili,1
+1831,Gustaf Luetchford,executive,-3.9257199000000003,29.9899512,Persian,1
+1832,Dieter Durtnell,definition,48.8032212,17.0157272,Montenegrin,0
+1833,Aili Dureden,website,28.555787,121.244605,Northern Sotho,0
+1834,Juliane Oldaker,explicit,-7.4331,107.6462,Japanese,1
+1835,Vikky Abrahm,Innovative,-38.977251,-67.826868,Assamese,1
+1836,Kimbell Lanaway,system engine,-8.0503973,112.6794582,Marathi,1
+1837,Rycca Marini,5th generation,30.39194,114.894843,Maltese,1
+1838,Pepillo Lott,heuristic,-25.739469600000003,28.350888300000005,Lithuanian,1
+1839,Jessalyn MacSweeney,approach,-13.77575,-73.4761429,Malay,0
+1840,Cash Bunce,Future-proofed,56.718213,36.770859,Zulu,0
+1841,Garvy Pebworth,optimizing,50.585206,3.3300918,Latvian,1
+1842,Mina Ozelton,eco-centric,16.9846184,122.00475630000001,Telugu,1
+1843,Iona Antyukhin,reciprocal,41.1769352,44.8345384,Hebrew,1
+1844,Trixie Penrith,hybrid,27.991616999999998,114.38725600000001,Kyrgyz,1
+1845,Etheline Crisp,content-based,13.6991663,123.5183334,Swahili,1
+1846,Krissie Humbie,database,-19.4021302,46.9537969,Tsonga,1
+1847,Denna Yglesia,Profound,-7.8533911,111.2994071,Icelandic,1
+1848,Nannie Getty,capacity,49.1232748,16.714443900000003,Norwegian,1
+1849,Paulita Bletsor,circuit,49.8575338,18.1508117,Zulu,1
+1850,Basia Heatley,maximized,-8.3081,113.4586,Māori,0
+1851,Patton MacCallester,heuristic,-7.2752365,106.98603840000001,Dzongkha,1
+1852,Pat Karlik,Horizontal,49.2412468,30.098993,Italian,0
+1853,Lillis Harrowing,Optional,-8.1356,113.3257,Albanian,1
+1854,Giorgi Kuhndel,instruction set,-5.5844754,105.4771084,Irish Gaelic,0
+1855,Jessee Gavini,open architecture,31.321187300000002,121.24780520000002,Danish,0
+1856,Emmye Bison,mission-critical,6.1097207000000004,102.24620870000001,Malagasy,0
+1857,Dallon Douch,budgetary management,-8.1392189,112.4455374,Haitian Creole,0
+1858,Barde Marvin,database,57.9268439,16.5004384,Chinese,0
+1859,Scarface Ridel,holistic,-7.2034104999999995,107.8773835,Guaraní,0
+1860,Burton Perford,actuating,13.9051904,-89.5002027,Swedish,0
+1861,Cort Talton,grid-enabled,30.661644399999997,114.307275,Afrikaans,0
+1862,Tuck Iannini,Face to face,22.170437,111.79153899999999,Telugu,0
+1863,Allistir Lile,implementation,-7.355927,110.64221979999999,Pashto,1
+1864,Dulciana Klamp,leverage,38.714630299999996,-9.414533,Kyrgyz,0
+1865,Helsa Pellatt,Devolved,49.42157529999999,16.697784,Latvian,1
+1866,Rand Beaston,optimal,51.341066,21.063409,Indonesian,1
+1867,Bradly Yeates,Vision-oriented,42.12215,60.06276,Punjabi,1
+1868,Morey Dibley,portal,43.7251,-80.96723,Lithuanian,1
+1869,Shelley Whellans,Adaptive,35.7518326,104.2861116,English,1
+1870,Joanne Duesbury,Reactive,32.852247,35.201315,Amharic,1
+1871,Haslett Knuckles,policy,-12.8435129,-74.569682,Lao,1
+1872,Zahara Granleese,Secured,-22.1147688,-45.05843839999999,Estonian,0
+1873,Avis Sall,adapter,31.2144668,121.48905559999999,Latvian,1
+1874,Austin Prewett,moratorium,11.6313786,125.4600442,Thai,0
+1875,Mellisent Whitebread,Total,41.486981,123.685142,Kyrgyz,0
+1876,Katie Cardenas,ability,23.028956,113.143441,Kurdish,1
+1877,Terrill Towson,intranet,0.7988772,127.38472659999998,Quechua,1
+1878,Ric MacGillivray,stable,9.791120800000002,80.1569366,Lithuanian,1
+1879,Leese Haberfield,Open-source,48.726098,128.939819,Macedonian,1
+1880,Anallise Darbon,standardization,4.860823,-74.912667,Amharic,0
+1881,Nefen aManger,info-mediaries,22.7100789,113.85477350000001,Dzongkha,1
+1882,Luce Haggarty,Decentralized,35.6891975,51.3889736,English,1
+1883,Francisca Palfreyman,Advanced,23.09964,113.8131,Hiri Motu,1
+1884,Clark Chamley,support,6.9787414000000005,79.9310946,Armenian,1
+1885,Queenie McCotter,algorithm,50.830564700000004,33.8815261,Spanish,1
+1886,Larisa Quennell,Profound,29.615233,110.608528,Pashto,1
+1887,Kimbell Kubik,asymmetric,37.515114000000004,103.575676,Fijian,1
+1888,Brunhilde Pescott,standardization,-21.0277616,-47.7772049,Danish,1
+1889,Tommi Astall,Cross-platform,51.848898,-8.298942,Somali,1
+1890,Margarete McCambrois,maximized,10.7119015,6.565661,Zulu,1
+1891,Petey Pettyfar,standardization,28.362804999999998,118.40029399999999,Punjabi,1
+1892,Deva Shoobridge,Ergonomic,38.779669,63.8699655,Estonian,1
+1893,Cybil Grossman,Graphic Interface,28.713209999999997,109.49661100000002,Latvian,0
+1894,Nikolas Capstick,demand-driven,24.726670499999997,88.148657,Irish Gaelic,0
+1895,Nannie Kilsby,concept,47.395226,8.5216392,Pashto,1
+1896,Rosanna Ortells,24/7,-7.725606900000001,38.9381031,Georgian,1
+1897,Rafaello Di Domenico,next generation,49.0261841,1.1518478,Kashmiri,0
+1898,Francklyn Abbys,well-modulated,29.912090399999997,120.6367578,Fijian,1
+1899,Rafferty Bacchus,Multi-layered,47.701645899999995,37.420987700000005,Fijian,1
+1900,Mallissa Gazey,human-resource,14.635710000000001,121.60616999999999,Japanese,1
+1901,Burton Swenson,user-facing,26.069617899999997,50.500623100000006,Georgian,1
+1902,Sibylle Seavers,bottom-line,21.514163,111.01355600000001,French,0
+1903,Anselm McGillivray,secured line,57.8014247,14.145485500000001,Aymara,1
+1904,Elbertine Fawlkes,paradigm,-6.6998600999999995,111.09671180000001,Japanese,1
+1905,Giralda Pasque,matrix,-12.895551300000001,-38.6779363,Nepali,1
+1906,Jasmin Davidy,standardization,-8.0305818,-78.5341407,Bengali,0
+1907,Eolanda Graver,Ergonomic,54.391747200000005,100.6005443,Swahili,0
+1908,Rip Battson,database,43.2600338,17.6896073,Somali,0
+1909,Gerome Grimwad,national,34.542308,118.75284199999999,Yiddish,1
+1910,Mireille Loadsman,impactful,-21.409946899999998,-48.5076885,Swedish,0
+1911,Hynda Mart,Managed,41.933917,126.42280600000001,Italian,1
+1912,Pavla Abriani,responsive,48.30009570000001,39.7430006,Estonian,0
+1913,Mendie Vasyunkin,moderator,8.0951588,-76.7284559,Tswana,0
+1914,Giulia Keene,collaboration,39.343357399999995,117.3616476,French,0
+1915,Irma Kochlin,Configurable,31.385848,94.427663,Papiamento,1
+1916,Laural Pietersma,Reverse-engineered,46.811720799999996,33.4901963,Latvian,1
+1917,Shane Northeast,national,-12.972218400000001,-38.5014136,Lithuanian,1
+1918,Rorie Trelevan,Automated,53.2856154,15.2926343,Lithuanian,0
+1919,Bennie Tixall,neutral,6.1816141,6.5303102,Hebrew,1
+1920,Godiva Sugge,contextually-based,-7.148668300000001,108.002075,Estonian,0
+1921,Kitti Reinbach,motivating,-7.5201771,109.26382450000001,German,1
+1922,Trixi Munkley,heuristic,29.204461,116.512037,Bengali,1
+1923,Glynis Drissell,Managed,51.653437,39.183896999999995,Montenegrin,1
+1924,Leonelle Dorton,Versatile,32.6733576,35.7517448,Afrikaans,1
+1925,Janeen Greystock,full-range,-6.618369500000001,107.7251314,Dutch,1
+1926,Cthrine Fivey,zero tolerance,-3.3619906000000004,122.5917078,Malayalam,0
+1927,Ronald Partleton,zero defect,53.9897476,18.1693424,Kannada,0
+1928,Emma De La Haye,open architecture,49.549192299999994,22.079037,Hindi,1
+1929,Monica Torres,Multi-layered,-23.142701300000002,-44.1663455,Bulgarian,1
+1930,Huberto Gresser,dynamic,8.565380099999999,0.9772874,Armenian,0
+1931,Leone Dunsmuir,Organized,13.5333605,-87.0892702,Greek,1
+1932,Giavani Poupard,Networked,-9.992524099999999,124.56945139999999,Haitian Creole,0
+1933,Alva Hadenton,coherent,59.8445787,13.2588145,Fijian,0
+1934,Charil Antrum,internet solution,20.8236509,-77.5791358,Bosnian,0
+1935,Arlene Bloan,Proactive,55.6065,159.64266,French,0
+1936,Savina Hughes,budgetary management,41.867115999999996,-8.199121400000001,Tamil,1
+1937,Marty Divver,Right-sized,39.3809141,22.7451966,German,1
+1938,Jermaine Risdall,database,36.562529999999995,36.738279999999996,Bulgarian,0
+1939,Esteban Paffot,Enhanced,32.8676912,-80.017511,Chinese,0
+1940,Bobine Akhurst,solution-oriented,39.979686,116.481068,Fijian,0
+1941,Pail Margett,flexibility,46.228702500000004,15.5190353,Swati,1
+1942,Amby Devall,local area network,39.7443294,-89.7286056,New Zealand Sign Language,1
+1943,Moishe Nozzolii,structure,-27.096068199999998,-48.6178074,Finnish,0
+1944,Melinda Bloomer,6th generation,49.0365227,14.617351500000002,Tamil,0
+1945,Livvyy Noirel,interface,50.480861600000004,18.7351846,Ndebele,0
+1946,Drucy Gitting,well-modulated,23.131797,113.40714299999999,Kurdish,0
+1947,Mavra Jakobssen,encryption,31.520463300000003,-5.5302337,Belarusian,1
+1948,Sandie Graeme,Vision-oriented,31.298973999999998,120.58528899999999,Kyrgyz,1
+1949,Genna Kolin,motivating,-9.798194,124.4364621,Norwegian,1
+1950,Nick Proby,alliance,-8.241702,123.769227,German,1
+1951,Josephine Olivo,portal,34.3400547,108.946087,Czech,1
+1952,Amble McKane,support,48.0323166,25.723023899999998,Danish,1
+1953,Peter Nanni,functionalities,-6.9774659,110.5806783,Somali,0
+1954,Harcourt Gidney,Mandatory,30.964593,120.780294,Kannada,0
+1955,Rosabelle Lambin,moratorium,52.316829999999996,-112.71861000000001,Indonesian,0
+1956,Ranice Camoletto,Sharable,21.081585,106.74705359999999,Macedonian,0
+1957,Mathilda Carss,Profit-focused,5.780633900000001,36.5715924,New Zealand Sign Language,1
+1958,Florance Pipet,Polarised,49.2030849,25.903470199999997,Telugu,0
+1959,Blake Calderon,Vision-oriented,12.371427699999998,-1.5196603000000002,Māori,0
+1960,Tatum Raddin,Fully-configurable,-0.24575770000000002,110.2832217,Dhivehi,0
+1961,Angelle Rundle,system engine,44.30672,85.87139300000001,Punjabi,1
+1962,Adella Hansman,product,35.2662059,36.7118971,Malagasy,0
+1963,Colline MacLennan,multimedia,39.618462,113.53646200000001,Pashto,0
+1964,Stan Betancourt,methodology,43.531892,46.374140399999995,Icelandic,1
+1965,Collette Kinder,De-engineered,38.6125141,-9.0820766,Lao,1
+1966,Chariot Leblanc,Secured,45.889267100000005,0.3046171,Croatian,1
+1967,Jennilee Melanaphy,Sharable,46.7389292,35.6383177,Kannada,1
+1968,Birch California,systematic,-21.5418158,-42.183712899999996,Albanian,0
+1969,Zia Stebbin,Centralized,13.9686682,120.7285858,Kashmiri,1
+1970,Averil Lebbern,Digitized,50.4883784,30.3330935,Spanish,0
+1971,Hildy Illes,knowledge base,51.7118861,22.902451199999998,Hindi,1
+1972,Lorene Morican,service-desk,47.8225694,0.3908219,Tetum,1
+1973,Frederique Doull,Versatile,5.042569,-75.514771,Tetum,0
+1974,Misty McClary,motivating,33.551052,119.11318500000002,Northern Sotho,0
+1975,Mersey Zanneli,coherent,40.115306,113.457407,Swedish,1
+1976,Faunie Leveret,implementation,37.4882943,71.5901986,Danish,0
+1977,Abbe Donlon,system engine,24.745135,100.82470699999999,Persian,1
+1978,Skippie Spilsburie,non-volatile,-8.44983,124.05402,Polish,1
+1979,Maggie Trustrie,Cross-group,-8.7394711,121.918866,Aymara,1
+1980,Estevan Dunkley,capability,48.3611707,27.0855305,Luxembourgish,1
+1981,Nelli Lucius,multi-tasking,-9.4355285,119.2627176,Korean,0
+1982,Kissiah Coudray,executive,27.533169300000004,68.7254605,Northern Sotho,0
+1983,Lyndsay Tuffs,Balanced,19.242836999999998,-71.53108399999999,Dzongkha,1
+1984,Tades Rubenczyk,open system,23.83072,111.621476,Northern Sotho,0
+1985,Paulita Hunnaball,4th generation,-6.892650099999999,112.01037649999999,Northern Sotho,0
+1986,Nahum Gerler,secured line,49.6324398,72.8771916,Bulgarian,1
+1987,Chev Heel,strategy,35.580628999999995,104.610668,Hindi,0
+1988,Culver Petrasso,Switchable,51.400458,86.02293,Norwegian,0
+1989,Sheila-kathryn Cheeney,intangible,7.6705223,5.1249662,English,0
+1990,Marcie Ruckman,Enterprise-wide,52.1662684,109.77657409999999,Yiddish,0
+1991,Veradis Thowes,Decentralized,47.8225694,0.3908219,Telugu,1
+1992,Charla Curmi,Integrated,52.338217799999995,5.2172366,Bislama,1
+1993,Patin Doe,infrastructure,54.7556556,38.8869951,Greek,1
+1994,Christabel Tomasutti,Multi-channelled,6.0244601,116.14422409999999,Tok Pisin,0
+1995,Cort Meni,Innovative,52.735825,20.7121262,Kashmiri,0
+1996,Elsbeth Paty,Realigned,45.3270631,14.442176000000002,Punjabi,0
+1997,Blythe Trodd,asynchronous,39.9793657,-75.1253492,Assamese,1
+1998,Eloise Judson,Quality-focused,27.868431400000002,-82.52703879999999,Arabic,1
+1999,Laurette Couves,Optimized,38.808984,22.6461855,Hungarian,0
+2000,Johannah Tramel,demand-driven,-6.3991308,106.74115590000001,Moldovan,0
