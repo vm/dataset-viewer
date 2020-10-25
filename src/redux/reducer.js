@@ -1,4 +1,5 @@
 import { handleActions } from 'redux-actions'
+import { combineReducers } from 'redux'
 
 import * as actions from './actions'
 
@@ -20,8 +21,12 @@ const NAME_TO_DATASET = {
   user,
 }
 
-export default handleActions({
+const dataset = handleActions({
   [actions.setDataset]: (state, action) => {
     return NAME_TO_DATASET[action.payload]
   },
 }, content)
+
+export default combineReducers({
+  dataset,
+})
