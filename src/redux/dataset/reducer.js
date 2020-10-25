@@ -6,7 +6,8 @@ import { handleActions } from '../utils'
 import * as actions from './actions'
 
 const datasetList = handleActions({
-}, false)
+  [actions.fetchDatasetListSuccess]: (action, payload) => action.payload,
+}, [])
 
 const fetchDatasetListStatus = handleActions({
   [combineActions(
@@ -17,9 +18,7 @@ const fetchDatasetListStatus = handleActions({
 }, false)
 
 const currentDataset = handleActions({
-  [actions.fetchDatasetSuccess]: (action, payload) => {
-    return action.payload
-  },
+  [actions.fetchDatasetSuccess]: (action, payload) => action.payload,
 }, false)
 
 const fetchDatasetStatus = handleActions({
