@@ -16,12 +16,31 @@ const Dataset = () => {
     dispatch(actions.setDataset(name))
   }, [dispatch, name])
 
-  const dataset = useSelector(selectors.computedDatasetSelector)
+  const onColumnSort = ({ key, order }) => {
+    dispatch(actions.setSortBy({ key, order }))
+  }
+
+  const dataset = useSelector(selectors.sortedDatasetSelector)
   const columns = useSelector(selectors.columnsSelector)
+  const summaries = useSelector(selectors.summariesSelector)
+  const sortBy = useSelector(selectors.sortBySelector)
 
   return (
-    <BaseTable data={dataset} width={1000} height={600}>
-      {[columns.map(column => <Column key={column} dataKey={column} width={100}/>)]}
+    <BaseTable
+      data={dataset}
+      width={1000}
+      height={600}
+      sortBy={sortBy}
+      onColumnSort={onColumnSort}
+    >
+      {columns.map(column =>
+        <Column
+          key={column}
+          title={column}
+          sortable
+          dataKey={column}
+          width={100}
+        />)}
     </BaseTable>
   )
 }

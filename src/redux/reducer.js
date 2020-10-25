@@ -27,6 +27,11 @@ const dataset = handleActions({
   },
 }, content)
 
+const sortBy = handleActions({
+  [actions.setSortBy]: (state, action) => action.payload,
+}, {})
+
 export default combineReducers({
   dataset,
+  sortBy,
 })

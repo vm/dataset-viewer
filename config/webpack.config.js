@@ -529,6 +529,7 @@ module.exports = function (webpackEnv) {
               options: {
                 dynamicTyping: true,
                 header: true,
+                skipEmptyLines: true,
               }
             },
             // "file" loader makes sure those assets get served by WebpackDevServer.
