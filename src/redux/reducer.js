@@ -4,20 +4,20 @@ import { combineReducers } from 'redux'
 import * as actions from './actions'
 
 import content from './data/content.csv'
-import contentDisplay from './data/content_display.csv'
-import contentTopic from './data/content_topic.csv'
+import content_display from './data/content_display.csv'
+import content_topic from './data/content_topic.csv'
 import pageView from './data/page_view.csv'
 import questions from './data/questions.csv'
-import stockPortfolioItem from './data/stock_portfolio_item.csv'
+import stock_portfolio_item from './data/stock_portfolio_item.csv'
 import user from './data/user.csv'
 
 const NAME_TO_DATASET = {
   content,
-  contentDisplay,
-  contentTopic,
+  content_display,
+  content_topic,
   pageView,
   questions,
-  stockPortfolioItem,
+  stock_portfolio_item,
   user,
 }
 
