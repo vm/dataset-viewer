@@ -39,7 +39,7 @@ const DatasetList = () => {
         .map(({ name, rowCount }) => (
           <div key={name}>
             <Link to={`/dataset/${name}`}>
-              {name}
+              {name} (count: {rowCount})
             </Link>
           </div>
         ))

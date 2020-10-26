@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { useParams } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
 import BaseTable, { Column } from 'react-base-table'
 import { VictoryChart, VictoryHistogram } from 'victory'
@@ -7,20 +7,15 @@ import { VictoryChart, VictoryHistogram } from 'victory'
 import * as actions from '../../redux/actions'
 import * as selectors from '../../redux/selectors'
 
+import './index.css'
 import 'react-base-table/styles.css'
 
-const COLUMN_WIDTH = 100
-
-// https://stackoverflow.com/questions/4187146/truncate-number-to-two-decimal-places-without-rounding
-function toFixed(num, fixed) {
-    var re = new RegExp('^-?\\d+(?:.\\d{0,' + (fixed || -1) + '})?');
-    return num.toString().match(re)[0];
-}
+const COLUMN_WIDTH = 120
 
 const rowRenderer = ({ cells, columns, rowData, ...rest }) => {
-  if (typeof rowData['user_id'] === 'object') {
+  if (typeof rowData[columns[0].title] === 'object') {
     return (
-      <div style={{ display: 'flex' }}>
+      <div className="dataset-summary-container">
         {columns.map(({ title }) => <Summary key={title} {...rowData[title]}/>)}
       </div>
     )
@@ -29,16 +24,20 @@ const rowRenderer = ({ cells, columns, rowData, ...rest }) => {
   }
 }
 
-const Summary = ({ min, max, nulls, std, data }) => {
+const Summary = ({ min, max, avg, std, data }) => {
   return (
-    <div style={{ width: COLUMN_WIDTH, height: '50%' }}>
+    <div className="dataset-summary">
       <VictoryChart>
         <VictoryHistogram bins={10} data={data.map(x => ({ x }))}/>
       </VictoryChart>
-      <div>min: {toFixed(min, 2)}</div>
-      <div>max: {toFixed(max, 2)}</div>
-      <div>std: {toFixed(std, 2)}</div>
-      <div>nulls: {nulls}</div>
+      <div className="dataset-summary-group">
+        <span>min: {min}</span>
+        <span>max: {max}</span>
+      </div>
+      <div className="dataset-summary-group">
+        <span>std: {std}</span>
+        <span>avg: {avg}</span>
+      </div>
     </div>
   )
 }
@@ -63,25 +62,28 @@ const Dataset = () => {
   const frozenData = [summaries]
 
   return (
-    <BaseTable
-      data={dataset}
-      frozenData={frozenData}
-      width={columns.length * COLUMN_WIDTH}
-      height={600}
-      rowHeight={100}
-      sortBy={sortBy}
-      onColumnSort={onColumnSort}
-      rowRenderer={rowRenderer}
-    >
-      {columns.map(column =>
-        <Column
-          key={column}
-          title={column}
-          sortable
-          dataKey={column}
-          width={COLUMN_WIDTH}
-        />)}
-    </BaseTable>
+    <>
+      <Link to="/">Dataset List</Link>
+      <BaseTable
+        data={dataset}
+        frozenData={frozenData}
+        width={columns.length * COLUMN_WIDTH}
+        height={600}
+        rowHeight={100}
+        sortBy={sortBy}
+        onColumnSort={onColumnSort}
+        rowRenderer={rowRenderer}
+      >
+        {columns.map(column =>
+          <Column
+            key={column}
+            title={column}
+            sortable
+            dataKey={column}
+            width={COLUMN_WIDTH}
+          />)}
+      </BaseTable>
+    </>
   )
 }
 

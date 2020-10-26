@@ -1,7 +1,13 @@
 import { SortOrder } from 'react-base-table'
 import { createSelector } from 'reselect'
-import { prop, is, isNil, isEmpty, sort, ascend, descend } from 'ramda'
+import { mean, prop, is, isEmpty, sort, ascend, descend } from 'ramda'
 import * as math from 'mathjs'
+
+// https://stackoverflow.com/questions/4187146/truncate-number-to-two-decimal-places-without-rounding
+function toFixed(num, fixed) {
+    var re = new RegExp('^-?\\d+(?:.\\d{0,' + (fixed || -1) + '})?');
+    return num.toString().match(re)[0];
+}
 
 const datasetSelector = state => state.dataset
 export const columnsSelector = createSelector(
@@ -26,10 +32,10 @@ export const summariesSelector = createSelector(
         }
       })
       const summary = {
-        min: Math.min(...columnData),
-        max: Math.max(...columnData),
-        nulls: columnData.filter(isNil).length,
-        std: math.std(...columnData),
+        min: toFixed(Math.min(...columnData), 1),
+        max: toFixed(Math.max(...columnData), 1),
+        std: toFixed(math.std(columnData), 1),
+        avg: toFixed(mean(columnData), 1),
         data: columnData,
       }
       summaries[column] = summary
