@@ -1,6 +1,6 @@
 import { SortOrder } from 'react-base-table'
 import { createSelector } from 'reselect'
-import { prop, isNil, isEmpty, sort, ascend, descend } from 'ramda'
+import { prop, is, isNil, isEmpty, sort, ascend, descend } from 'ramda'
 
 const datasetSelector = state => state.dataset
 export const columnsSelector = createSelector(
@@ -16,10 +16,17 @@ export const summariesSelector = createSelector(
   (dataset, columns) => {
     let summaries = {}
     columns.forEach(column => {
-      const columnData = dataset.map(prop(column))
+      const columnData = dataset.map(row => {
+        const cell = row[column]
+        if (is(Number, cell)) {
+          return cell
+        } else {
+          return cell.length
+        }
+      })
       const summary = {
-        min: Math.min(columnData),
-        max: Math.max(columnData),
+        min: Math.min(...columnData),
+        max: Math.max(...columnData),
         nullCount: columnData.filter(isNil).length,
       }
       summaries[column] = summary

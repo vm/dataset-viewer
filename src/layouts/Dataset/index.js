@@ -8,6 +8,28 @@ import * as selectors from '../../redux/selectors'
 
 import 'react-base-table/styles.css'
 
+const rowRenderer = ({ cells, columns, rowData, ...rest }) => {
+  if (typeof rowData['id'] === 'object') {
+    return (
+      <div style={{ display: 'flex' }}>
+        {columns.map(({ title }) => <Summary key={title} {...rowData[title]}/>)}
+      </div>
+    )
+  } else {
+    return cells
+  }
+}
+
+const Summary = ({ min, max }) => {
+  console.log(min, max)
+  return (
+    <div style={{ width: 100 }}>
+      <div>min: {min}</div>
+      <div>max: {max}</div>
+    </div>
+  )
+}
+
 const Dataset = () => {
   let { name } = useParams()
 
@@ -25,13 +47,17 @@ const Dataset = () => {
   const summaries = useSelector(selectors.summariesSelector)
   const sortBy = useSelector(selectors.sortBySelector)
 
+  const frozenData = [summaries]
+
   return (
     <BaseTable
       data={dataset}
-      width={1000}
+      frozenData={frozenData}
+      width={columns.length * 100}
       height={600}
       sortBy={sortBy}
       onColumnSort={onColumnSort}
+      rowRenderer={rowRenderer}
     >
       {columns.map(column =>
         <Column
