@@ -1,6 +1,7 @@
 import { SortOrder } from 'react-base-table'
 import { createSelector } from 'reselect'
 import { prop, is, isNil, isEmpty, sort, ascend, descend } from 'ramda'
+import * as math from 'mathjs'
 
 const datasetSelector = state => state.dataset
 export const columnsSelector = createSelector(
@@ -27,7 +28,9 @@ export const summariesSelector = createSelector(
       const summary = {
         min: Math.min(...columnData),
         max: Math.max(...columnData),
-        nullCount: columnData.filter(isNil).length,
+        nulls: columnData.filter(isNil).length,
+        std: math.std(...columnData),
+        data: columnData,
       }
       summaries[column] = summary
     })

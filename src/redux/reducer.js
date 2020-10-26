@@ -6,7 +6,7 @@ import * as actions from './actions'
 import content from './data/content.csv'
 import content_display from './data/content_display.csv'
 import content_topic from './data/content_topic.csv'
-import pageView from './data/page_view.csv'
+import page_view from './data/page_view.csv'
 import questions from './data/questions.csv'
 import stock_portfolio_item from './data/stock_portfolio_item.csv'
 import user from './data/user.csv'
@@ -15,7 +15,7 @@ const NAME_TO_DATASET = {
   content,
   content_display,
   content_topic,
-  pageView,
+  page_view,
   questions,
   stock_portfolio_item,
   user,
